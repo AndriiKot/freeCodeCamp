@@ -4,5 +4,5 @@
   [9,8,6]
 ]
 
-console.log(matrix[2][0]);
+console.log(matrix[2][0]);  // 9
 
