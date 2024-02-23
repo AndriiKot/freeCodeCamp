@@ -1,12 +1,13 @@
-﻿body {
+body {
   width: 100%;
   height: 100vh;
   margin: 0;
-  background-color:#1b1b32;
+  background-color: #1b1b32;
   color: #f5f6f7;
 }
 
 label {
-    display: block;
-    margin: 0.5rem 0;
+  display: block;
+  margin: 0.5rem 0;
 }
+
