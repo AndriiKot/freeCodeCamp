@@ -37,6 +37,12 @@ input, textarea, select {
   margin-top: 10px;
 }
 
+.inline {
+  width: unset;
+  margin: 0 0.5em 0 0;
+}
+
+
 
 label {
   display: block;
