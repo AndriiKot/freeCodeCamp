@@ -13,14 +13,14 @@
   width: 200px;
 }
 
-.one {
+.red {
   background-color: rgb(255, 0, 0);
 }
 
-.two {
-  background-color: rgb(0, 255, 0);
+.green {
+  background-color: #007f00;
 }
 
-.three {
-  background-color: rgb(0, 0, 255);
+.blue {
+  background-color: hsl(240, 100%, 50%);
 }
