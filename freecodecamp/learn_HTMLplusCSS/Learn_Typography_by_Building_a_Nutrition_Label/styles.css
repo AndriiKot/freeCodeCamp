@@ -42,10 +42,15 @@ p {
 .large {
   height: 10px;
 }
+
 .large,
 .medium {
   background-color: black;
   border: 0;
+}
+
+.medium {
+  height: 5px;
 }
 
 .small-text {
@@ -72,4 +77,9 @@ p {
   margin: -5px -2px;
   font-weight: 700;
   font-size: 2em;
+}
+
+.right {
+  display: flex;
+  justify-content: flex-end;
 }
