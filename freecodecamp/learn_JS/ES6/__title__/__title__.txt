@@ -1,0 +1,28 @@
+﻿ECMAScript, or ES, is a standardized version of JavaScript. 
+Because all major browsers follow this specification,
+the terms ECMAScript and JavaScript are interchangeable.
+
+Most of the JavaScript you've 
+learned up to this point was in ES5 (ECMAScript 5),
+which was finalized in 2009. While you can still write programs in ES5, JavaScript is constantly evolving, and new features are released every year.
+
+ES6, released in 2015, added many 
+powerful new features to the language. 
+In this course, you'll learn these new features, 
+including arrow functions, destructuring, classes, promises, and modules.
+
+
+RU
+ECMAScript или ES — это стандартизированная версия JavaScript.
+Поскольку все основные браузеры соответствуют этой спецификации,
+термины ECMAScript и JavaScript взаимозаменяемы.
+
+Большая часть вашего JavaScript
+изученное до этого момента было в ES5 (ECMAScript 5),
+который был завершен в 2009 году. Хотя на ES5 все еще можно писать программы,
+JavaScript постоянно развивается, и каждый год выпускаются новые функции.
+
+ES6, выпущенный в 2015 году, добавил множество
+новые мощные возможности языка.
+В этом курсе вы познакомитесь с новыми функциями:
+включая стрелочные функции, деструктуризацию, классы, обещания и модули.
