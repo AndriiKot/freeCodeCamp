@@ -21,6 +21,7 @@ nav > ul {
   display: flex;
   width: 100%;
   justify-content: space-evenly;
+  list-style-type: none;
 }
 
 h1,
@@ -42,4 +43,8 @@ h2 {
   clip: rect(0, 0, 0, 0);
   white-space: nowrap;
   border: 0;
+}
+
+p:before {
+  content: "Question #";
 }
