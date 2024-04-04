@@ -123,10 +123,6 @@
             <div class="question-block">
               <label>Can the CSS margin property accept negative values?</label>
             </div>
-            <div class="answer"></div>
-            <div class="question-block">
-              <label for="q1-CSS">Do you have any questions:</label>
-            </div>
             <div class="answer">
               <select required name="q1-CSS" id="q1-CSS">
                 <option value="">Select an option</option>
@@ -134,9 +130,20 @@
                 <option value="no">No</option>
               </select>
             </div>
+            <div class="question-block">
+              <label for="css-textarea">Do you have any questions:</label>
+            </div>
+            <div class="answer">
+              <textarea id="css-textarea"
+                rows="5"
+                cols="24"
+                placeholder="Who is flexbox..."
+                name="css-questions"
+              ></textarea>
+            </div>
           </div>
         </section>
-        <input type="submit" />
+        <button type="submit" >Send</button>
       </form>
     </main>
   </body>
