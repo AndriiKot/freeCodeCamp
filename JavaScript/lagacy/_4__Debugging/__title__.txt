@@ -1,0 +1,23 @@
+﻿Debugging is the process of going through your code,
+finding any issues, and fixing them.
+
+Issues in code generally come in three forms: syntax 
+errors that prevent your program from running, runtime 
+errors where your code has unexpected behavior, or logical 
+errors where your code doesn't do what you intended.
+
+In this course, you'll learn how to use the JavaScript 
+console to debug programs and prevent common issues before they happen.
+
+RU:
+Отладка
+Отладка — это процесс просмотра вашего кода, обнаружения проблем и их исправления.
+
+Проблемы в коде обычно бывают трех форм: синтаксические ошибки, 
+которые препятствуют запуску вашей программы, 
+ошибки времени выполнения, когда ваш код ведет себя неожиданно, 
+или логические ошибки, когда ваш код не делает то, что вы планировали.
+
+В этом курсе вы узнаете, как использовать консоль 
+JavaScript для отладки программ и предотвращения 
+распространенных проблем до их возникновения.
