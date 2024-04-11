@@ -17,11 +17,12 @@
 
 .container {
   display: grid;
-  justify-items: center;
+  align-items: end;
   grid-template-columns: 1fr 1fr 1fr;
   grid-template-rows: 1fr 1fr 1fr;
   grid-gap: 10px;
   font-size: 40px;
   width: 100%;
+  min-height: 300px;
   background: LightGray;
 }
