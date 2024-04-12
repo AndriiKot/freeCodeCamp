@@ -13,6 +13,7 @@
 }
 .d5 {
   background: PaleGreen;
+  grid-area: footer;
 }
 
 .container {
