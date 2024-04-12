@@ -18,6 +18,10 @@
 .container {
   display: grid;
   align-items: end;
+  grid-template-areas:
+    "header header header"
+    "advert content content"
+    "footer footer footer";
   grid-template-columns: 1fr 1fr 1fr;
   grid-template-rows: 1fr 1fr 1fr;
   grid-gap: 10px;
