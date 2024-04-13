@@ -23,8 +23,8 @@
     "header header header"
     "advert content content"
     "footer footer footer";
-  grid-template-columns: 1fr 1fr 1fr;
-  grid-template-rows: 1fr 1fr 1fr;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(3, 1fr);
   grid-gap: 10px;
   font-size: 40px;
   width: 100%;
