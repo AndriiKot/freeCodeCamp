@@ -22,3 +22,12 @@ body {
   border-radius: 46%;
   background: linear-gradient(#5e5e5e 85%, #45454f 100%);
 }
+
+.box {
+  width: 200px;
+  height: 600px;
+  background: #000;
+  position: absolute;
+  top: 800px;
+  left: 650px;
+}
