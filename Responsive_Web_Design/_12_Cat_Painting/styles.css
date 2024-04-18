@@ -51,3 +51,9 @@ body {
   border-top-left-radius: 90px;
   border-top-right-radius: 10px;
 }
+
+.cat-left-inner-ear {
+  border-bottom: 40px solid #3b3b4f;
+  border-left: 20px solid transparent;
+  border-right: 20px solid transparent;
+}
