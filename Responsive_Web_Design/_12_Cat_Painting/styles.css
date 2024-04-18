@@ -13,9 +13,12 @@ body {
 }
 
 .cat-head {
-  position: fixed;
-  top: 100px;
-  left: 100px;
+  position: absolute;
+  right: 0;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  margin: auto;
   width: 205px;
   height: 180px;
   border: 1px solid #000;
