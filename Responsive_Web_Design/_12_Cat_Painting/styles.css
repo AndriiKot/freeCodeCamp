@@ -13,7 +13,7 @@ body {
 }
 
 .cat-head {
-  position: relative;
+  position: absolute;
   top: 100px;
   left: 100px;
   width: 205px;
