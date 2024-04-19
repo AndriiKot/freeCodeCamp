@@ -100,3 +100,14 @@ body {
   height: 40px;
   background-color: #000;
 }
+
+.cat-left-inner-eye {
+  position: absolute;
+  top: 8px;
+  left: 2px;
+  border-radius: 60%;
+  transform: rotate(10deg);
+  width: 10px;
+  height: 20px;
+  background-color: #fff;
+}
