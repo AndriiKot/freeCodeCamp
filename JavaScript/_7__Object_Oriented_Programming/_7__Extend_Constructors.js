@@ -4,5 +4,5 @@
   this.numLegs = 4;
 }
 
-const terrier = new Dog('Chappa', 'black');
+const terrier = new Dog("Chappa", "black");
 console.log(terrier);
