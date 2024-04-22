@@ -23,6 +23,8 @@
 
     & .key {
       position: relative;
+      margin: 2px ;
+      float: left;    
       background-color: #fff;
       width: 41px;
       height: 175px;
