@@ -37,6 +37,7 @@
       background-color: #fff;
       width: 41px;
       height: 175px;
+      border-radius: 0 0 3px 3px;
     }
     & .key.black--key::after {
       position: absolute;
