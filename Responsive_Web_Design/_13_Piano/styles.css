@@ -20,5 +20,12 @@
     width: 949px;
     height: 180px;
     padding-left: 2px;
+
+    & .key {
+      position: relative;
+      background-color: #fff;
+      width: 41px;
+      height: 175px;
+    }
   }
 }
