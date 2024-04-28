@@ -1,5 +1,4 @@
 ﻿Array.prototype.myFilter = function (callback) {
-  // Only change code below this line
   const newArray = [];
   const len = this.length;
   for (let i = 0; i < len; i++) {
@@ -7,7 +6,6 @@
       newArray.push(this[i]);
     }
   }
-  // Only change code above this line
   return newArray;
 };
 
