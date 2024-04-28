@@ -1,5 +1,5 @@
 # freeCodeCamp
-## Points: 987
+## Points: 1019
 
 ## Responsive Web Design
 
