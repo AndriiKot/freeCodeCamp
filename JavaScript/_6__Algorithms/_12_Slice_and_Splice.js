@@ -1,16 +1,26 @@
-﻿// !!! Получать длину второго массива 
-// function frankenSplice(arr1, arr2, n) {
-//     const newArray = Array.from({length: arr1.length + arr2.length}, () => 0);
-//     newArray.forEach((element,i) => {   
-//         for(let j = 0; j < n; j++) {
-//             newArray[i + j] = arr2[i + j];   
-//             console.log(newArray)   
-//         }
-//         newArray[i + n] = arr1[i];
-//         console.log(newArray)
-//         console.log('step: ' + (i + 1));
-//     });
-//     // return newArray
-//   }
-  
-//   console.log(frankenSplice([1, 2, 3], [4, 5, 6], 2));
+﻿function frankenSplice(arr1, arr2, n) {
+  n = n > arr2.length ? arr2.length : n;
+  const newArray = Array.from(
+    { length: arr2.length + arr1.length },
+    (element, i) => {
+      if (i < n) {
+        element = arr2[i];
+      } else {
+        if (i < arr1.length + n) {
+          element = arr1[i - n];
+        } else {
+          element = arr2[i - arr1.length];
+        }
+      }
+
+      return element;
+    }
+  );
+
+  return newArray;
+}
+
+console.log(frankenSplice([1, 2, 3], [4, 5], 1)); // [4, 1, 2, 3, 5]
+
+// Устаревшие алгоритмы JavaScript и структуры данных
+// Неуспешный :frankenSplice([1, 2, 3], [4, 5], 1)должен вернуться [4, 1, 2, 3, 5].
