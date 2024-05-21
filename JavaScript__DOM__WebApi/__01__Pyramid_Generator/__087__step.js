@@ -11,11 +11,11 @@ function padRow(rowNumber, rowCount) {
   rows.push(padRow(i, count));
 }*/
 
-let done = rows.lenth + 1;
+let done = 0;
 
-while (done <= count) {
+while (rows.length < count) {
   done++;
-  rows.push(padRow(done, count));
+  rows.push(padRow(rows.length + 1, count));
 }
 
 let result = ""
