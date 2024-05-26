@@ -1,6 +1,7 @@
 ﻿projects = {
  HTML_Basic: 'https://github.com/AndriiKot/HTML__Basic__FreeCodeCamp.git',
  CSS_Basic: 'https://github.com/AndriiKot/CSS__Basic__FreeCodeCamp.git',
+ CSS_
 }
 
 update = "git subtree pull --prefix "
