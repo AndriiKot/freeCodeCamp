@@ -1,0 +1,26 @@
+﻿Functional Programming is another popular 
+approach to software development. 
+In Functional Programming, 
+code is organized into smaller, 
+basic functions that can be 
+combined to build complex programs.
+
+In this course, you'll learn the 
+core concepts of Functional Programming 
+including pure functions, how to avoid 
+mutations, and how to write cleaner 
+code with methods like .map() and .filter().
+
+RU:
+Функциональное программирование — еще один популярный
+подход к разработке программного обеспечения.
+В функциональном программировании
+код организован в более мелкие,
+основные функции, которые могут быть
+объединены для создания сложных программ.
+
+В этом курсе вы изучите
+основные концепции функционального программирования
+включая чистые функции, как избежать
+мутации и как писать чище
+код с такими методами, как .map() и .filter().

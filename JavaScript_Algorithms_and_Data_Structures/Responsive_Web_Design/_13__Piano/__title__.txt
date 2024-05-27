@@ -1,0 +1,21 @@
+﻿Learn Responsive Web Design by Building a Piano
+
+Responsive Design tells your webpage
+how it should look on different-sized screens.
+
+In this course, you'll use 
+CSS and Responsive Design to code a piano. You'll 
+also learn more about media queries and pseudo selectors.
+
+
+
+RU:
+Изучите адаптивный веб-дизайн, создав фортепиано
+
+Адаптивный дизайн сообщает вашей веб-странице
+как это должно выглядеть на экранах разного размера.
+
+В этом курсе вы будете использовать
+CSS и адаптивный дизайн для написания кода фортепиано. Вы будете
+также узнайте больше о медиа-запросах и псевдоселекторах.
+

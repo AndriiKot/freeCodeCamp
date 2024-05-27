@@ -1,0 +1,20 @@
+﻿Flexbox is a powerful, well-supported 
+layout method that was introduced with 
+the latest version of CSS, CSS3. With flexbox, 
+it's easy to center elements on the page 
+and create dynamic user 
+interfaces that shrink and expand automatically.
+
+In this course, you'll learn the fundamentals 
+of flexbox and dynamic layouts by building a Twitter card.
+
+RU:
+Flexbox — это мощный, хорошо поддерживаемый метод макетирования, 
+представленный в последней версии CSS, CSS3. 
+С помощью flexbox легко центрировать 
+элементы на странице и создавать динамические 
+пользовательские интерфейсы, которые 
+автоматически сжимаются и расширяются.
+
+В этом курсе вы изучите основы flexbox 
+и динамических макетов, создав карточку Twitter.

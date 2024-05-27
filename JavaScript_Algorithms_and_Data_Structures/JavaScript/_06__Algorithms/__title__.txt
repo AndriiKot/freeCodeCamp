@@ -1,0 +1,23 @@
+﻿Basic Algorithm Scripting
+An algorithm is a series of step-by-step 
+instructions that describe how to do something.
+
+To write an effective algorithm, 
+it helps to break a problem down 
+into smaller parts and think 
+carefully about how to solve each part with code.
+
+In this course, you'll learn the 
+fundamentals of algorithmic thinking by writing 
+algorithms that do everything from converting temperatures to handling complex 2D arrays.
+
+RU:
+Алгоритм — это серия пошаговых инструкций, описывающих, как что-то сделать.
+
+Чтобы написать эффективный алгоритм, 
+полезно разбить проблему на более мелкие 
+части и тщательно продумать, как решить каждую часть с помощью кода.
+
+В этом курсе вы изучите основы алгоритмического мышления, 
+написав алгоритмы, которые делают все: 
+от преобразования температур до обработки сложных двумерных массивов.
