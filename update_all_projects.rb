@@ -1,6 +1,8 @@
 ﻿projects = {
     Role_Playing_Game: 'https://github.com/AndriiKot/JS__Role_Playing_Game__FreeCodeCamp.git',
+    Pyramid_Generator: 'https://github.com/AndriiKot/JS__Pyramid_Generator__FreeCodeCamp.git',
 }
+
 
 
 update = "git subtree pull --prefix "
