@@ -1,10 +1,12 @@
 # freeCodeCamp
-## Points: 1191
+## Points: 1203
 
 
-## JavaScript(Web API, DOM)
+## JavaScript Algorithms and Data Structures (Beta)
 ### Courses:
 #### Piramid Generator
+#### Gradebook App
+#### Role Playing Game
 
 
 ## Responsive Web Design
@@ -22,7 +24,7 @@
 #### Cat Painting
 
 
-## JavaScript Algorithms and Data Structures
+## Legacy JavaScript Algorithms and Data Structures
 ### Courses:
 #### Basic JavaScript
 #### ES6
@@ -33,7 +35,7 @@
 #### Object Oriented Programming
 
 
-## HTML5&CSS
+## Legacy Responsive Web Design Challenges
 ### Courses:
 #### Basic HTML and HTML5
 #### CSS Grid
