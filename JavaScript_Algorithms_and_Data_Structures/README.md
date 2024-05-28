@@ -12,3 +12,8 @@ You'll also learn about Object Oriented Programming (OOP),
 Functional Programming, algorithmic thinking, how to work 
 with local storage, and how to fetch data using an API.
 
+### Pyramid Generator
+### Gradebook App
+### Role Playing Game
+
+
