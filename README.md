@@ -11,8 +11,6 @@ In this course, you'll build a cat photo
 app to learn some of the most common 
 HTML elements — the building blocks of any webpage.
 
-﻿# CSS
-
 ### Technologies
 
 <div>
