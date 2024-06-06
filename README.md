@@ -37,7 +37,7 @@
 
 ## [Legacy Responsive Web Design Challenges](https://github.com/AndriiKot/Legacy_Responsive_Web_Design_Challenges-FreeCodeCamp-)
 ### Courses:
-#### Basic HTML and HTML5
+#### [Basic HTML and HTML5](https://github.com/AndriiKot/HTML__Basic__FreeCodeCamp)
 #### CSS Grid
 
 
