@@ -11,3 +11,32 @@ In this course, you'll build a cat photo
 app to learn some of the most common 
 HTML elements — the building blocks of any webpage.
 
+### Technologies
+
+<div>
+  <a href="https://html.spec.whatwg.org/multipage/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5 logo" 
+    width="100" height="100">
+  </a>
+</div>
+
+## Project
+<div>
+  
+  <div>
+    <a href="https://github.com/AndriiKot/HTML__Basic__FreeCodeCamp">
+      <img src='https://github.com/AndriiKot/HTML__Basic__FreeCodeCamp/blob/main/___title___/CatPhotoApp__img__.png'  alt="Cat Photo App">
+    </a> 
+  </div>
+
+### Footer: 
+    
+  <div>
+    <a href="https://github.com/AndriiKot/HTML__Basic__FreeCodeCamp">
+      <img src='https://github.com/AndriiKot/HTML__Basic__FreeCodeCamp/blob/main/___title___/CatPhotoApp__img__footer_.png' alt="Cat Photo App">
+    </a>
+  </div>
+  
+</div>
+
+
