@@ -22,6 +22,7 @@ HTML elements — the building blocks of any webpage.
 
 ## Project
 <div>
+  <a href="https://github.com/AndriiKot/HTML__Basic__FreeCodeCamp">
   <img src='https://github.com/AndriiKot/HTML__Basic__FreeCodeCamp/blob/main/___title___/CatPhotoApp__img__.png' 
   alt="Cat Photo App">
   </a>
