@@ -30,8 +30,11 @@ HTML elements — the building blocks of any webpage.
   </div>
     <h3>Footer: </h3>
     <div>
+        <a href="https://github.com/AndriiKot/HTML__Basic__FreeCodeCamp">
+
     <img src='https://github.com/AndriiKot/HTML__Basic__FreeCodeCamp/blob/main/___title___/CatPhotoApp__img__footer_.png' alt="Cat Photo App">
   </a>
+    </div>
 </div>
 
 
