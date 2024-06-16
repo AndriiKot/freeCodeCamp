@@ -13,6 +13,12 @@ other flex properties to build a responsive page.
 Add the CSS property _display_  
 to _#box-container_ and set its value to flex.
 
+
+<div id="box-container">
+  <div id="box-1"></div>
+  <div id="box-2"></div>
+</div>
+
 <style>
   #box-container {
     height: 500px;
@@ -31,7 +37,3 @@ to _#box-container_ and set its value to flex.
     height: 50%;
   }
 </style>
-<div id="box-container">
-  <div id="box-1"></div>
-  <div id="box-2"></div>
-</div>
