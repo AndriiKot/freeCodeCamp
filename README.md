@@ -30,6 +30,8 @@ of your cat photo app, give it some style with CSS.
   </a>
 </div>
 
+****
+
 ![CatPhotoApp (img)](https://github.com/AndriiKot/CSS__Basic__FreeCodeCamp/blob/main/__image__.png)
 
 
