@@ -16,7 +16,7 @@ the header's *.follow-btn*, the header's *h3* and *h4*,
 the *footer*, and the footer's *.stats*.    
 
 ### Before:
-![(before)]()
+![Add Flex Superpowers to the Tweet Embed (before)(img)]()
 
 ### After:
-![(after)]()
+![Add Flex Superpowers to the Tweet Embed (after)(img)]()
