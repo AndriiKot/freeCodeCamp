@@ -11,6 +11,8 @@ In this course, you'll learn the
 fundamentals of flexbox and dynamic
 layouts by building a Twitter card
 
+### Technologies
+
 <div>
     <a href="https://www.w3.org/Style/CSS/" target="_blank">
        <img
