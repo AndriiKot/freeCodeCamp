@@ -8,4 +8,6 @@ size, spacing, and many other aspects of HTML elements.
 Now that you've described the structure 
 of your cat photo app, give it some style with CSS.
 
+[CatPhotoApp (img)](https://github.com/AndriiKot/CSS__Basic__FreeCodeCamp/blob/main/__image__.png)
+
 
