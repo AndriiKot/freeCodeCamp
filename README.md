@@ -16,6 +16,6 @@ with Flexbox, and a complex blog layout with CSS Grid.
 
 ### [Basic HTML and HTML5](https://github.com/AndriiKot/HTML__Basic__FreeCodeCamp)
 ### Basic CSS
-### CSS Flexbox
+### [CSS Flexbox](https://github.com/AndriiKot/CSS__Flexbox__FreeCodeCamp)
 ### CSS Grid
 
