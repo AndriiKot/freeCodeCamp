@@ -13,7 +13,7 @@ layouts by building a Twitter card
 <img
   src="https://upload.wikimedia.org/wikipedia/commons/3/3d/CSS.3.svg"
   alt="CSS Logo"
-  width="50"
-  height="50"
+  width="100"
+  height="100"
 />
 
