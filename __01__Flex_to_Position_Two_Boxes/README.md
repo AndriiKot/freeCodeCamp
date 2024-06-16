@@ -13,3 +13,4 @@ other flex properties to build a responsive page.
 Add the CSS property _display_  
 to _#box-container_ and set its value to flex.
 
+![Use display: flex to Position Two Boxes](https://github.com/AndriiKot/CSS__Flexbox__FreeCodeCamp/blob/main/__01__Flex_to_Position_Two_Boxes/__description__/__image__.png)
