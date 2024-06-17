@@ -35,3 +35,5 @@ layouts by building a Twitter card
 
 ## List of Challenges:
 ### 1.[Use display: flex to Position Two Boxes](https://github.com/AndriiKot/CSS__Flexbox__FreeCodeCamp/tree/main/__01__Flex_to_Position_Two_Boxes)
+
+### 2.[Add Flex Superpowers to the Tweet Embed](https://github.com/AndriiKot/CSS__Flexbox__FreeCodeCamp/tree/main/__02__Add_Flex_Superpowers_to_the_Tweet_Embed)
