@@ -33,4 +33,5 @@ layouts by building a Twitter card
   </a>
 </div>
 
-## 1.[Use display: flex to Position Two Boxes](https://github.com/AndriiKot/CSS__Flexbox__FreeCodeCamp/tree/main/__01__Flex_to_Position_Two_Boxes)
+## List of Challenges:
+### 1.[Use display: flex to Position Two Boxes](https://github.com/AndriiKot/CSS__Flexbox__FreeCodeCamp/tree/main/__01__Flex_to_Position_Two_Boxes)
