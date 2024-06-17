@@ -1,4 +1,27 @@
 # Legacy Responsive Web Design Challenges
+<div class="logos">
+  <span class="HTML5">
+    <a href="https://html.spec.whatwg.org/multipage/">
+      <img
+        src="https://github.com/AndriiKot/___Icons__and__Links___/blob/main/html-1.svg"
+        alt="HTML5 logo"
+        width="100"
+        height="100"
+      />
+    </a>
+  </span>
+
+  <span class="CSS">
+    <a href="https://www.w3.org/Style/CSS/Overview.en.html">
+      <img
+        src="https://github.com/AndriiKot/___Icons__and__Links___/blob/main/css-3.svg"
+        alt="CSS logo"
+        width="100"
+        height="100"
+      />
+    </a>
+  </span>
+</div>
 
 In this Responsive Web Design Certification, 
 you'll learn the languages that developers use 
