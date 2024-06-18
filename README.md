@@ -61,7 +61,7 @@
 
 ## [JavaScript Algorithms and Data Structures (Beta)](https://github.com/AndriiKot/JavaScript_Algorithms_and_Data_Structures__FreeCodeCamp)
 ### Courses:
-#### Piramid Generator
+#### [Piramid Generator](https://github.com/AndriiKot/JS__Pyramid_Generator__FreeCodeCamp)
 #### [Gradebook App](https://github.com/AndriiKot/JS__Gradebook_App__FreeCodeCamp)
 #### [Role Playing Game](https://github.com/AndriiKot/JS__Role_Playing_Game__FreeCodeCamp)
 
