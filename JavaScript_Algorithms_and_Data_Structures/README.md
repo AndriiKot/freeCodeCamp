@@ -12,8 +12,9 @@ You'll also learn about Object Oriented Programming (OOP),
 Functional Programming, algorithmic thinking, how to work 
 with local storage, and how to fetch data using an API.
 
-### Pyramid Generator
-### Gradebook App
-### Role Playing Game
+### [Pyramid Generator](https://github.com/AndriiKot/JS__Pyramid_Generator__FreeCodeCamp)
+### [Gradebook App](https://github.com/AndriiKot/JS__Gradebook_App__FreeCodeCamp)
+### [Role Playing Game](https://github.com/AndriiKot/JS__Role_Playing_Game__FreeCodeCamp)
+
 
 
