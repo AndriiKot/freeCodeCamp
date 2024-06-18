@@ -58,14 +58,14 @@
 
 </div>
 
-
+---
 ## [JavaScript Algorithms and Data Structures (Beta)](https://github.com/AndriiKot/JavaScript_Algorithms_and_Data_Structures__FreeCodeCamp)
 ### Courses:
 #### [Piramid Generator](https://github.com/AndriiKot/JS__Pyramid_Generator__FreeCodeCamp)
 #### [Gradebook App](https://github.com/AndriiKot/JS__Gradebook_App__FreeCodeCamp)
 #### [Role Playing Game](https://github.com/AndriiKot/JS__Role_Playing_Game__FreeCodeCamp)
 
-
+---
 ## Responsive Web Design
 ### Courses:
 #### Cat Photo App
@@ -80,7 +80,7 @@
 #### Balance Sheet
 #### Cat Painting
 
-
+---
 ## [Legacy JavaScript Algorithms and Data Structures](https://github.com/AndriiKot/freeCodeCamp/tree/main/Legacy_JavaScript_Algorithms_and_Data_Structures)
 ### Courses:
 #### [Basic JavaScript](https://github.com/AndriiKot/freeCodeCamp/tree/main/Legacy_JavaScript_Algorithms_and_Data_Structures/_01__Basic_Javascript)
@@ -103,6 +103,7 @@
 
 #### [JavaScript Algorithms and Data Structures Projects](https://github.com/AndriiKot/freeCodeCamp/tree/main/Legacy_JavaScript_Algorithms_and_Data_Structures/_10__JavaScript_Algorithms_and_Data_Structures_Projects)
 
+---
 ## [Legacy Responsive Web Design Challenges](https://github.com/AndriiKot/Legacy_Responsive_Web_Design_Challenges-FreeCodeCamp-)
 ### Courses:
 #### [Basic HTML and HTML5](https://github.com/AndriiKot/HTML__Basic__FreeCodeCamp)
