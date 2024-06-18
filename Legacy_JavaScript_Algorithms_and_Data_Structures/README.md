@@ -14,3 +14,7 @@ of the International Space Station.
 Along the way, you'll also learn two 
 important programming styles or paradigms: 
 Object Oriented Programming (OOP) and Functional Programming (FP).
+
+### Courses:
+
+#### [Basic JavaScript](https://github.com/AndriiKot/freeCodeCamp/tree/main/Legacy_JavaScript_Algorithms_and_Data_Structures/_01__Basic_Javascript)
