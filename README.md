@@ -59,7 +59,7 @@
 </div>
 
 
-## JavaScript Algorithms and Data Structures (Beta)
+## [JavaScript Algorithms and Data Structures (Beta)](https://github.com/AndriiKot/JavaScript_Algorithms_and_Data_Structures__FreeCodeCamp)
 ### Courses:
 #### Piramid Generator
 #### Gradebook App
