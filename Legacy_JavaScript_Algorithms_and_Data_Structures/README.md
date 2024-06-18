@@ -24,3 +24,5 @@ Object Oriented Programming (OOP) and Functional Programming (FP).
 #### [Regular Expressions](https://github.com/AndriiKot/freeCodeCamp/tree/main/Legacy_JavaScript_Algorithms_and_Data_Structures/_03__Regular_Expressions)
 
 #### [Debugging](https://github.com/AndriiKot/freeCodeCamp/tree/main/Legacy_JavaScript_Algorithms_and_Data_Structures/_04__Debugging)
+
+#### [Basic Data Structures](https://github.com/AndriiKot/freeCodeCamp/tree/main/Legacy_JavaScript_Algorithms_and_Data_Structures/_05__Basic_Data_Structures)
