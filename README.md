@@ -83,14 +83,25 @@
 
 ## Legacy JavaScript Algorithms and Data Structures
 ### Courses:
-#### Basic JavaScript
-#### ES6
-#### Regular Expressions
-#### Debugging
-#### Basic Data Structures
-#### Basic Algorithm Scripting
-#### Object Oriented Programming
+#### [Basic JavaScript](https://github.com/AndriiKot/freeCodeCamp/tree/main/Legacy_JavaScript_Algorithms_and_Data_Structures/_01__Basic_Javascript)
 
+#### [ES6](https://github.com/AndriiKot/freeCodeCamp/tree/main/Legacy_JavaScript_Algorithms_and_Data_Structures/_02__ES6)
+
+#### [Regular Expressions](https://github.com/AndriiKot/freeCodeCamp/tree/main/Legacy_JavaScript_Algorithms_and_Data_Structures/_03__Regular_Expressions)
+
+#### [Debugging](https://github.com/AndriiKot/freeCodeCamp/tree/main/Legacy_JavaScript_Algorithms_and_Data_Structures/_04__Debugging)
+
+#### [Basic Data Structures](https://github.com/AndriiKot/freeCodeCamp/tree/main/Legacy_JavaScript_Algorithms_and_Data_Structures/_05__Basic_Data_Structures)
+
+#### [Basic Algorithm Scripting](https://github.com/AndriiKot/freeCodeCamp/tree/main/Legacy_JavaScript_Algorithms_and_Data_Structures/_06__Algorithms)
+
+#### [Object Oriented Programming](https://github.com/AndriiKot/freeCodeCamp/tree/main/Legacy_JavaScript_Algorithms_and_Data_Structures/_07__Object_Oriented_Programming)
+
+#### [Functional Programming](https://github.com/AndriiKot/freeCodeCamp/tree/main/Legacy_JavaScript_Algorithms_and_Data_Structures/_08__Functional_Programming)
+
+#### [Intermediate Algorithm Scripting](https://github.com/AndriiKot/freeCodeCamp/tree/main/Legacy_JavaScript_Algorithms_and_Data_Structures/_09__Intermediate_Algorithm_Scripting)
+
+#### [JavaScript Algorithms and Data Structures Projects](https://github.com/AndriiKot/freeCodeCamp/tree/main/Legacy_JavaScript_Algorithms_and_Data_Structures/_10__JavaScript_Algorithms_and_Data_Structures_Projects)
 
 ## [Legacy Responsive Web Design Challenges](https://github.com/AndriiKot/Legacy_Responsive_Web_Design_Challenges-FreeCodeCamp-)
 ### Courses:
