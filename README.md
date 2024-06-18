@@ -13,7 +13,7 @@ Functional Programming, algorithmic thinking, how to work
 with local storage, and how to fetch data using an API.
 
 ### Pyramid Generator
-### Gradebook App
+### [Gradebook App](https://github.com/AndriiKot/JS__Gradebook_App__FreeCodeCamp)
 ### [Role Playing Game](https://github.com/AndriiKot/JS__Role_Playing_Game__FreeCodeCamp)
 
 
