@@ -29,3 +29,5 @@ Object Oriented Programming (OOP) and Functional Programming (FP).
 
 #### [Basic Algorithm Scripting](https://github.com/AndriiKot/freeCodeCamp/tree/main/Legacy_JavaScript_Algorithms_and_Data_Structures/_06__Algorithms)
 
+#### [Object Oriented Programming](https://github.com/AndriiKot/freeCodeCamp/tree/main/Legacy_JavaScript_Algorithms_and_Data_Structures/_07__Object_Oriented_Programming)
+
