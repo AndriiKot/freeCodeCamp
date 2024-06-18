@@ -81,7 +81,7 @@
 #### Cat Painting
 
 
-## Legacy JavaScript Algorithms and Data Structures
+## [Legacy JavaScript Algorithms and Data Structures](https://github.com/AndriiKot/freeCodeCamp/tree/main/Legacy_JavaScript_Algorithms_and_Data_Structures)
 ### Courses:
 #### [Basic JavaScript](https://github.com/AndriiKot/freeCodeCamp/tree/main/Legacy_JavaScript_Algorithms_and_Data_Structures/_01__Basic_Javascript)
 
