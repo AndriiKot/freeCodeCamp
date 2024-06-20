@@ -15,5 +15,5 @@ Add the CSS property *flex-direction*
 to the *#box-container* element, 
 and give it a value of *row-reverse*.
 
-### [](https://github.com/AndriiKot/CSS__Flexbox__FreeCodeCamp/blob/main/__03__Use_the_flex-direction_Property_to_Make_a_Row/imgs/before_and_after.png)
+### ![](https://github.com/AndriiKot/CSS__Flexbox__FreeCodeCamp/blob/main/__03__Use_the_flex-direction_Property_to_Make_a_Row/imgs/before_and_after.png)
 
