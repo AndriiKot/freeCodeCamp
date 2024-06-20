@@ -1,23 +1,57 @@
-﻿<style>
-  #box-container {
-    display: flex;
-    height: 500px;
-    flex-direction: row-reverse;
-  }
-  #box-1 {
-    background-color: dodgerblue;
-    width: 50%;
-    height: 50%;
-  }
+﻿<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>flex-direction: row-reverse, ... </title>
+    <style>
+      .main-container {
+        border: 1px solid black;
+        #box-container-1,
+        #box-container-2 {
+          display: flex;                       /* display flex */
+          height: 100px;
+          border: 1px solid black;
+        }
+        #box-container-2 {
+          flex-direction: row-reverse;
+        }
+      }
 
-  #box-2 {
-    background-color: orangered;
-    width: 50%;
-    height: 50%;
-  }
-</style>
+      #box-1,
+      #box-2,
+      #box-3,
+      #box-4 {
+        width: 50%;
+        height: 50%;
+      }
 
-<div id="box-container">
-  <div id="box-1"></div>
-  <div id="box-2"></div>
-</div>
+      #box-2,
+      #box-4 {
+        background-color: orangered;
+      }
+
+      #box-1,
+      #box-3 {
+        background-color: dodgerblue;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="main-container">
+      <h2>Before:</h2>
+
+      <div id="box-container-1">
+        <div id="box-1"></div>
+        <div id="box-2"></div>
+      </div>
+      <h2>After:</h2>
+      <h3>flex-direction: row-reverse; </h3>
+
+      <div id="box-container-2">
+        <div id="box-3"></div>
+        <div id="box-4"></div>
+      </div>
+    </div>
+  </body>
+</html>
