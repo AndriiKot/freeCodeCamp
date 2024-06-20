@@ -1,4 +1,4 @@
-﻿# Use the flex-direction Property to Make a Row
+﻿# Add Flex Superpowers to the Tweet Embed
 
 To the right is the tweet embed that will be   
 used as a practical example. Some of the elements   
