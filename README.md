@@ -52,5 +52,7 @@ layouts by building a Twitter card
 
 ### 9.[Align Elements Using the align-items Property](https://github.com/AndriiKot/CSS__Flexbox__FreeCodeCamp/tree/main/__09__Align_Elements_Using_the_align-items_Property)
 
+### 10.[Align Elements Using the align-items Property](https://github.com/AndriiKot/CSS__Flexbox__FreeCodeCamp/tree/main/__10__Use_the_align-items_Property_in_the_Tweet_Embed)
+
 
 
