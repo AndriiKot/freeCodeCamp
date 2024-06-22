@@ -9,5 +9,5 @@ Add the CSS property *align-items* to
 the header's *.follow-btn* element. 
 Set the value to *center*.
 
-
+![Align Elements Using the align-items Property](https://github.com/AndriiKot/CSS__Flexbox__FreeCodeCamp/blob/main/__10__Use_the_align-items_Property_in_the_Tweet_Embed/imgs/before_and_after.png)
 
