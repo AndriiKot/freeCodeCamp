@@ -46,3 +46,6 @@ property in the code editor to see their differences.
 But note that a value of center is the only  
 one that will pass this challenge.  
 
+![align-items: center; (Before and After)](https://github.com/AndriiKot/CSS__Flexbox__FreeCodeCamp/blob/main/__09__Align_Elements_Using_the_align-items_Property/imgs/before_and_after.png)
+
+
