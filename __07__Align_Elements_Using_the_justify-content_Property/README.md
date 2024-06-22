@@ -26,8 +26,8 @@ which aligns all the flex items to the center
 inside the flex container. Other options include:  
 
 *flex-start*: aligns items to the start of the   
-flex container. For a row, this pushes the items   
-to the left of the container. For a column,   
+flex container. For a row, this pushes the items     
+to the left of the container. For a column,     
 this pushes the items to the top of the container.   
 This is the default alignment if no *justify*-content* is specified.  
 *flex-end*: aligns items to the end of   
