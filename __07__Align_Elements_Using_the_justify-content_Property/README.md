@@ -7,9 +7,9 @@ and space out the flex items a certain way.
 Fortunately, the *justify-content* property   
 has several options to do this. But first,   
 there is some important terminology to understand before reviewing those options.  
----
+
 For more info about flex-box properties read here  
----
+
 Recall that setting a flex container as a     
 row places the flex items side-by-side from left-to-right.   
 A flex container set as a column places the flex items in   
