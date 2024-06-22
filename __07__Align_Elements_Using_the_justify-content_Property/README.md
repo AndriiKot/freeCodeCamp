@@ -1,4 +1,4 @@
-﻿# Align Elements Using the justify-content Property
+﻿# Align Elements Using the justify-content Property  
 
 Sometimes the flex items within a flex container  
 do not fill all the space in the container.  
