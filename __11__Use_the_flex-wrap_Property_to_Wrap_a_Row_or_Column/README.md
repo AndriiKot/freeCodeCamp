@@ -24,5 +24,6 @@ The current layout has too many boxes for one row.
 Add the CSS property *flex-wrap* to the   
 *#box-container* element, and give it a value of *wrap*. 
  
+![flex-wrap Before and After](https://github.com/AndriiKot/CSS__Flexbox__FreeCodeCamp/blob/main/__11__Use_the_flex-wrap_Property_to_Wrap_a_Row_or_Column/imgs/before_and_after.png)
 
 
