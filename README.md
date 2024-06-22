@@ -50,8 +50,7 @@ layouts by building a Twitter card
 
 ### 8.[Use the justify-content Property in the Tweet Embed](https://github.com/AndriiKot/CSS__Flexbox__FreeCodeCamp/tree/main/__08__Use_the_justify-content_Property_in_the_Tweet_Embed)
 
-### 9.[Align Elements Using the align-items Property
-](https://github.com/AndriiKot/CSS__Flexbox__FreeCodeCamp/tree/main/__09__Align_Elements_Using_the_align-items_Property)
+### 9.[Align Elements Using the align-items Property](https://github.com/AndriiKot/CSS__Flexbox__FreeCodeCamp/tree/main/__09__Align_Elements_Using_the_align-items_Property)
 
 
 
