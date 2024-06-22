@@ -56,10 +56,10 @@ Add the CSS property justify-content to the
 
 
 Bonus
-Try the other options for the *justify-content*
-property in the code editor to see their differences. 
-But note that a value of 
-center is the only one that will pass this challenge.
+Try the other options for the *justify-content*  
+property in the code editor to see their differences.   
+But note that a value of   
+center is the only one that will pass this challenge.  
 
 
 
