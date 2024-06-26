@@ -24,4 +24,4 @@ Add the CSS property *flex-shrink* to
 both *#box-*1* and *#box-2*.   
 Give *#box-*1* a value of 1 and *#box-2* a value of *2*.  
 
-![]()
+![Use the *flex-shrink* Property to Shrink Items](https://github.com/AndriiKot/CSS__Flexbox__FreeCodeCamp/blob/main/__12__Use_the_flex-shrink_Property_to_Shrink_Items/imgs/bofore_and_after.png)
