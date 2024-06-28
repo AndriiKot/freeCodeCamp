@@ -58,6 +58,6 @@ layouts by building a Twitter card
 
 ### 12.[Use the *flex-shrink* Property to Shrink Items](https://github.com/AndriiKot/CSS__Flexbox__FreeCodeCamp/tree/main/__12__Use_the_flex-shrink_Property_to_Shrink_Items)
 
-### 13.[https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/use-the-flex-grow-property-to-expand-items](https://github.com/AndriiKot/CSS__Flexbox__FreeCodeCamp/tree/main/__13__Use_the_flex-grow_Property_to_Expand_Items)
+### 13.[Use the flex-grow Property to Expand Items](https://github.com/AndriiKot/CSS__Flexbox__FreeCodeCamp/tree/main/__13__Use_the_flex-grow_Property_to_Expand_Items)
 
 ### 14.[Use the flex-basis Property to Set the Initial Size of an Item](https://github.com/AndriiKot/CSS__Flexbox__FreeCodeCamp/tree/main/__14__Use_the_flex-basis_Property_to_Set_the_Initial_Size_of_anItem)
