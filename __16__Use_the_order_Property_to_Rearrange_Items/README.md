@@ -15,4 +15,6 @@ of 2 and give *#box-2* a value of 1.
 ![](https://github.com/AndriiKot/CSS__Flexbox__FreeCodeCamp/blob/main/__16__Use_the_order_Property_to_Rearrange_Items/imgs/_default_order_.png)
 
 ### Order:
+![](https://github.com/AndriiKot/CSS__Flexbox__FreeCodeCamp/blob/main/__16__Use_the_order_Property_to_Rearrange_Items/imgs/_order_.png)
+
 
