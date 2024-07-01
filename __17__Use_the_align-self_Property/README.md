@@ -13,7 +13,15 @@ and will override any value set by the *align-items* property.
 
 Add the CSS property *align-self* to both   
 *#box-1* and *#box-2*. Give *#box-1* a value   
-of center and give *#box-2* a value of *flex-end*.
+of center and give *#box-2* a value of *flex-end*.   
+
+### Default align-self
+![Default align-self](https://github.com/AndriiKot/CSS__Flexbox__FreeCodeCamp/blob/main/__17__Use_the_align-self_Property/imgs/_default_align-self_.png)
+
+### align-self 'center' and 'end' 
+![box-1 (align-self: center;) box-2 (align-self: end;)](https://github.com/AndriiKot/CSS__Flexbox__FreeCodeCamp/blob/main/__17__Use_the_align-self_Property/imgs/_align-self_.png)
+
+
 
 
 
