@@ -11,5 +11,8 @@ both *#box-1* and *#box-2*. Give *#box-1* a value
 of 2 and give *#box-2* a value of 1.  
 
 
+### Default Order:
+![](https://github.com/AndriiKot/CSS__Flexbox__FreeCodeCamp/blob/main/__16__Use_the_order_Property_to_Rearrange_Items/imgs/_default_order_.png)
 
+### Order:
 
