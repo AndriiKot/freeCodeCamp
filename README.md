@@ -66,4 +66,6 @@ layouts by building a Twitter card
 
 ### 16.[Use the order Property to Rearrange Items](https://github.com/AndriiKot/CSS__Flexbox__FreeCodeCamp/tree/main/__16__Use_the_order_Property_to_Rearrange_Items)
 
+### 17.[Use the align-self Property](https://github.com/AndriiKot/CSS__Flexbox__FreeCodeCamp/tree/main/__17__Use_the_align-self_Property)
+
 
