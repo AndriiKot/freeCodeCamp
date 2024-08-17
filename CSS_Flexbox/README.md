@@ -61,3 +61,11 @@ layouts by building a Twitter card
 ### 13.[Use the flex-grow Property to Expand Items](https://github.com/AndriiKot/CSS__Flexbox__FreeCodeCamp/tree/main/__13__Use_the_flex-grow_Property_to_Expand_Items)
 
 ### 14.[Use the flex-basis Property to Set the Initial Size of an Item](https://github.com/AndriiKot/CSS__Flexbox__FreeCodeCamp/tree/main/__14__Use_the_flex-basis_Property_to_Set_the_Initial_Size_of_anItem)
+
+### 15.[Use the flex Shorthand Property](https://github.com/AndriiKot/CSS__Flexbox__FreeCodeCamp/tree/main/__15__Use_the_flex_Shorthand_Property)
+
+### 16.[Use the order Property to Rearrange Items](https://github.com/AndriiKot/CSS__Flexbox__FreeCodeCamp/tree/main/__16__Use_the_order_Property_to_Rearrange_Items)
+
+### 17.[Use the align-self Property](https://github.com/AndriiKot/CSS__Flexbox__FreeCodeCamp/tree/main/__17__Use_the_align-self_Property)
+
+
