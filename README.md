@@ -10,4 +10,16 @@ own Pyramid Generator. You'll learn how to work
 with arrays, strings, functions, loops, 
 if/else statements, and more.
 
+         !
+        !!!
+       !!!!!
+      !!!!!!!
+     !!!!!!!!!
+    !!!!!!!!!!!
+   !!!!!!!!!!!!!
+  !!!!!!!!!!!!!!!
+ !!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!
+
+
 
