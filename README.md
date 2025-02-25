@@ -10,10 +10,10 @@ small problems and get a better understanding of the basics.
     - [Step 1 Solution](#step-1-solution)
 - Step 2
     - Step 2 Solution
-- Step 3 
-    - Step 3 Solution
-- Step 4 
-    - Step 4 Solution
+- [Step 3](#step-3)
+    - [Step 3 Solution](#step-3-solution)
+- [Step 4](#step-4)
+    - [Step 4 Solution](#step-4-solution)
 
 ### Step 1
 
@@ -99,6 +99,15 @@ console.log(getGrade(96));
 console.log(getGrade(82));
 console.log(getGrade(56));
 ```
+
+### Step 3
+###### Tips
+### Step 3 Solution
+
+### Step 4
+###### Tips
+### Step 4 Solution
+
 
 
 
