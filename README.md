@@ -8,8 +8,8 @@ small problems and get a better understanding of the basics.
 
 - [Step 1](#step-1)
     - [Step 1 Solution](#step-1-solution)
-- Step 2
-    - Step 2 Solution
+- [Step 2](#step-2)
+    - [Step 2 Solution](#step-2-solution]
 - [Step 3](#step-3)
     - [Step 3 Solution](#step-3-solution)
 - [Step 4](#step-4)
