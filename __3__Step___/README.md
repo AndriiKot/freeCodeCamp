@@ -24,7 +24,7 @@ console.log(hasPassingGrade(100));
 console.log(hasPassingGrade(53));
 console.log(hasPassingGrade(87));
 
-######Tips
+###### Tips
 
 Use the getGrade function to get the
 student's grade. Then check if the
