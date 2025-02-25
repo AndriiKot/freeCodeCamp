@@ -6,6 +6,15 @@ variables, conditionals and more by building a gradebook app.
 This will give you an opportunity to solve 
 small problems and get a better understanding of the basics.
 
+- Step 1
+    - Step 1 Solution
+- Step 2
+    - Step 2 Solution
+- Step 3 
+    - Step 3 Solution
+- Step 4 
+    - Step 4 Solution
+
 ### Step 1
 
 A teacher has finished grading their students' 
