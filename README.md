@@ -7,7 +7,6 @@ This will give you an opportunity to solve
 small problems and get a better understanding of the basics.
   
  
-#### - [Full Code](#full-code)
 
 - [Step 1](#step-1)
     - [Step 1 Solution](#step-1-solution)
@@ -215,6 +214,7 @@ function studentMsg(totalScores, studentScore) {
   }`;
 }
 ```
+#### - [back to start](#gradebook-App)
 
 
 
