@@ -1,4 +1,4 @@
-﻿function getAverage(scores) {
+function getAverage(scores) {
   return scores.reduce((a, b) => a + b, 0) / scores.length;
 }
 

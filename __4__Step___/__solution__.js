@@ -1,4 +1,4 @@
-﻿function getAverage(scores) {
+function getAverage(scores) {
   let sum = 0;
 
   for (const score of scores) {
