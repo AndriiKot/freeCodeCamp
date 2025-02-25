@@ -19,11 +19,6 @@ Score Range Grade
 60 - 69 "D"
 0 - 59  "F"
 
-###### Tips
-
-Remember that you learned about conditional statements(if, else if, and else).
-Remember that you learned about comparison operators (>, <, >=, <=, ===).
-
 ### Solution
 
 ```js
@@ -48,4 +43,10 @@ console.log(getGrade(96));
 console.log(getGrade(82));
 console.log(getGrade(56));
 ```
+
+###### Tips
+
+Remember that you learned about conditional statements(if, else if, and else).
+Remember that you learned about comparison operators (>, <, >=, <=, ===).
+
 
