@@ -1,4 +1,5 @@
-﻿*.log
+﻿!.html
+*.log
 .DS_Store
 
 
