@@ -15,7 +15,7 @@ loops, if/else statements, and more.
 
 ![preview 'Role Playing Game'](https://github.com/AndriiKot/JS__Role_Playing_Game__FreeCodeCamp/blob/main/preview/preview_role_playing_game.png)
 
-| [index.html](#index.html) | [styles.css](#styles.css) | [script.js](#script.js)
+| [index_html](#index.html) | [styles_css](#styles.css) | [script_js](#script.js)
 |-----------------------------|-----------------------|--------------------------|
 
 ### index.html
