@@ -13,7 +13,7 @@ loops, if/else statements, and more.
 
 #### preview
 
-![preview 'Role Playing Game'](https://github.com/AndriiKot/JS__Role_Playing_Game__FreeCodeCamp/tree/main/preview)
+![preview 'Role Playing Game'](https://github.com/AndriiKot/JS__Role_Playing_Game__FreeCodeCamp/blob/main/preview/preview_role_playing_game.png)
 
 
 
