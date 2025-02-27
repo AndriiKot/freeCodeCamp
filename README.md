@@ -20,6 +20,9 @@ loops, if/else statements, and more.
 | [index.html](#indexhtml) | [styles.css](#stylescss) | [script.js](#scriptjs)
 |-----------------------------|-----------------------|--------------------------|
 
+
+[Back to top](#top)
+
 ### index.html
 
 ```html
@@ -61,7 +64,10 @@ loops, if/else statements, and more.
 </html>
 ```
 
+[Back to top](#top)
+
 ### styles.css
+
 ```css
 body {
   background-color: #0a0a23;
@@ -109,6 +115,8 @@ button {
   border: 3px solid #feac32;
 }
 ```
+
+[Back to top](#top)
 
 ### script.js
 ```js
@@ -195,7 +203,6 @@ const locations = [
   }
 ];
 
-// initialize buttons
 button1.onclick = goStore;
 button2.onclick = goCave;
 button3.onclick = fightDragon;
