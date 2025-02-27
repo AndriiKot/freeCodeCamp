@@ -11,3 +11,9 @@ own Role Playing Game. You'll learn how to work
 with arrays, strings, objects, functions, 
 loops, if/else statements, and more.
 
+#### preview
+
+![preview 'Role Playing Game'](https://github.com/AndriiKot/JS__Role_Playing_Game__FreeCodeCamp/tree/main/preview)
+
+
+
