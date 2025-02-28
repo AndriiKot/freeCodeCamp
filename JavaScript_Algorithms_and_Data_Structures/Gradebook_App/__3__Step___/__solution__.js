@@ -1,31 +1,26 @@
-﻿function getAverage(scores) {
-  let sum = 0;
+function hasPassingGrade(score) {
+  return score > 59;
+}
 
-  for (const score of scores) {
-    sum += score;
-  }
-
-  return sum / scores.length;
+function getAverage(scores) {
+  return scores.reduce((a, b) => a + b, 0) / scores.length;
 }
 
 function getGrade(score) {
-  if (score === 100) {
-    return "A++";
-  } else if (score >= 90) {
-    return "A";
-  } else if (score >= 80) {
-    return "B";
-  } else if (score >= 70) {
-    return "C";
-  } else if (score >= 60) {
-    return "D";
-  } else {
-    return "F";
-  }
-}
+  const grades = {
+    "A++": score > 99,
+    A: score > 89,
+    B: score > 79,
+    C: score > 69,
+    D: score > 59,
+    F: score <= 59,
+  };
 
-function hasPassingGrade(score) {
-  return score > 59;
+  for (const [grade, condition] of Object.entries(grades)) {
+    if (condition) {
+      return grade;
+    }
+  }
 }
 
 console.log(hasPassingGrade(100));

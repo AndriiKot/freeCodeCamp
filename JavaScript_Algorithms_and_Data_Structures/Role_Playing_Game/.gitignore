@@ -1,4 +1,6 @@
-﻿*.log
+﻿!*.html
+!*.png
+*.log
 .DS_Store
 
 
