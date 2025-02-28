@@ -32,17 +32,17 @@ loops, if/else statements, and more.
   </thead>
   <tbody>
     <tr>
-      <td height=50 width=80>
+      <td height=30 width=80>
         <a href=https://ecma-international.org/publications-and-standards/standards/>
           <img src=https://github.com/AndriiKot/JS__Role_Playing_Game__FreeCodeCamp/blob/main/preview/icons/javascript-1.svg alt=JavaScript>
         </a>
       </td>
-      <td height=50 width=80>
+      <td height=30 width=80>
         <a href=https://www.w3.org/Style/CSS/>
           <img src=https://github.com/AndriiKot/JS__Role_Playing_Game__FreeCodeCamp/blob/main/preview/icons/css.svg alt=CSS>
         </a>
       </td>
-      <td height=50 width=80></td>
+      <td height=30 width=80></td>
         <a href=https://html.spec.whatwg.org/multipage/>
           <img src=https://github.com/AndriiKot/JS__Role_Playing_Game__FreeCodeCamp/blob/main/preview/icons/html.svg alt=HTML>
         </a>
