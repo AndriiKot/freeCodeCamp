@@ -42,8 +42,8 @@ loops, if/else statements, and more.
           <img src=https://github.com/AndriiKot/JS__Role_Playing_Game__FreeCodeCamp/blob/main/preview/icons/css.svg alt=CSS>
         </a>
       </td>
-      <td height=33 width=100></td>
-        <a href=https://html.spec.whatwg.org/multipage/>
+      <td height=33 width=100>
+              <a href=https://html.spec.whatwg.org/multipage/>
           <img src=https://github.com/AndriiKot/JS__Role_Playing_Game__FreeCodeCamp/blob/main/preview/icons/html.svg alt=HTML>
         </a>
       </td>
