@@ -1,12 +1,31 @@
 # Gradebook App
-In this mini project, you will get to 
-review JavaScript fundamentals like functions, 
+In this mini project, you will get to
+review JavaScript fundamentals like functions,
 variables, conditionals and more by building a gradebook app.
 
-This will give you an opportunity to solve 
+This will give you an opportunity to solve
 small problems and get a better understanding of the basics.
-  
-#### - [Full Code](#full-code) 
+
+### Technologies
+
+<table>
+  <thead>
+    <tr>
+      <th height=33 width=91>JavaScript</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td height=33 width=91>
+        <a href=https://ecma-international.org/publications-and-standards/standards/>
+          <img src=https://github.com/AndriiKot/JS__Gradebook_App__FreeCodeCamp/blob/main/icons/javascript-1.svg alt=JavaScript>
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+#### - [Full Code](#full-code)
 
 - [Step 1](#step-1)
     - [Step 1 Solution](#step-1-solution)
@@ -19,25 +38,25 @@ small problems and get a better understanding of the basics.
 
 ### Step 1
 
-A teacher has finished grading their students' 
+A teacher has finished grading their students'
 tests and needs your help to calculate the average score for the class.
 
-Complete the getAverage function which takes 
+Complete the getAverage function which takes
 in an array of test scores and returns the average score.
 
-The average is calculated by adding 
+The average is calculated by adding
 up all the scores and dividing by the total number of scores.
 
 average = sum of all scores / total number of scores
-A couple of function calls have been 
+A couple of function calls have been
 provided for you so you can test out your code.
 
 
 ###### Tips
 
-You can use a loop to iterate 
+You can use a loop to iterate
 over the scores array and add up all the scores.
-You can use the length property 
+You can use the length property
 to get the total number of scores.
 
 ### Step 1 Solution
@@ -53,15 +72,15 @@ console.log(getAverage([45, 87, 98, 100, 86, 94, 67, 88, 94, 95]));
 
 ### Step 2
 
-Now the teacher needs your help 
+Now the teacher needs your help
 converting the student score to a letter grade.
 
-Complete the getGrade function that 
-takes a number score as a parameter. 
-Your function should return a string 
+Complete the getGrade function that
+takes a number score as a parameter.
+Your function should return a string
 representing a letter grade based on the score.
 
-Here are the scores and their 
+Here are the scores and their
 corresponding letter grades:
 
 Score Range Grade
@@ -92,7 +111,7 @@ Remember that you learned about comparison operators (>, <, >=, <=, ===).
 
   for (const [grade, condition] of Object.entries(grades)) {
     if (condition) {
-      return grade; 
+      return grade;
     }
   }
 }
@@ -178,7 +197,7 @@ Be careful with the punctuation and spaces in the message.
 
 ## Full Code
 
-```js  
+```js
 
 function hasPassingGrade(score) {
   return score > 59;
