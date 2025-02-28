@@ -25,28 +25,29 @@ loops, if/else statements, and more.
 <table>
   <thead>
     <tr>
-      <th height=33 width=100>JavaScript</th>
-      <th height=33 width=100>CSS</th>
-      <th height=33 width=100>HTML</th>
+      <th height=33 width=80>JavaScript</th>
+      <th height=33 width=80>CSS</th>
+      <th height=33 width=800>HTML</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td height=100 width=100>
+      <td height=50 width=80>
         <a href=https://ecma-international.org/publications-and-standards/standards/>
-          <img src= alt=JavaScript>
+          <img src=https://github.com/AndriiKot/JS__Role_Playing_Game__FreeCodeCamp/blob/main/preview/icons/javascript-1.svg alt=JavaScript>
         </a>
       </td>
-      <td height=100 width=100>
+      <td height=50 width=80>
         <a href=https://www.w3.org/Style/CSS/>
-          <img src= alt=CSS>
+          <img src=https://github.com/AndriiKot/JS__Role_Playing_Game__FreeCodeCamp/blob/main/preview/icons/css.svg alt=CSS>
         </a>
       </td>
-      <td height=100 width=100></td>
+      <td height=50 width=80></td>
         <a href=https://html.spec.whatwg.org/multipage/>
-          <img src= alt=HTML>
+          <img src=https://github.com/AndriiKot/JS__Role_Playing_Game__FreeCodeCamp/blob/main/preview/icons/html.svg alt=HTML>
         </a>
       </td>
+    </tr>
   </tbody>
 </table>
 
