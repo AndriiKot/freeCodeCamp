@@ -36,6 +36,8 @@ small problems and get a better understanding of the basics.
 - [Step 4](#step-4)
     - [Step 4 Solution](#step-4-solution)
 
+#### - [back to top](#gradebook-App)
+
 ### Step 1
 
 A teacher has finished grading their students'
@@ -69,6 +71,8 @@ function getAverage(scores) {
 console.log(getAverage([92, 88, 12, 77, 57, 100, 67, 38, 97, 89]));
 console.log(getAverage([45, 87, 98, 100, 86, 94, 67, 88, 94, 95]));
 ```
+
+#### - [back to top](#gradebook-App)
 
 ### Step 2
 
@@ -121,6 +125,8 @@ console.log(getGrade(82));
 console.log(getGrade(56));
 ```
 
+#### - [back to top](#gradebook-App)
+
 ### Step 3
 
 The teacher is really happy with the
@@ -150,6 +156,7 @@ Use the getGrade function to get the
 student's grade. Then check if the
 grade is passing or not.
 
+#### - [back to top](#gradebook-App)
 
 ### Step 4
 
@@ -188,12 +195,16 @@ function studentMsg(totalScores, studentScore) {
 }
 ```
 
+#### - [back to top](#gradebook-App)
+
 ###### Tips
 
 Use the getAverage function to get the class average.
 Use the getGrade function to get the student's grade.
 Use string concatenation (+) to build the message.
 Be careful with the punctuation and spaces in the message.
+
+#### - [back to top](#gradebook-App)
 
 ## Full Code
 
@@ -233,7 +244,7 @@ function studentMsg(totalScores, studentScore) {
   }`;
 }
 ```
-#### - [Back to top](#gradebook-App)
+#### - [back to top](#gradebook-App)
 
 
 
