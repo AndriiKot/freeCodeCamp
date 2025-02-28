@@ -27,7 +27,7 @@ loops, if/else statements, and more.
     <tr>
       <th height=33 width=80>JavaScript</th>
       <th height=33 width=80>CSS</th>
-      <th height=33 width=800>HTML</th>
+      <th height=33 width=80>HTML</th>
     </tr>
   </thead>
   <tbody>
