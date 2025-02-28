@@ -214,7 +214,7 @@ function studentMsg(totalScores, studentScore) {
   }`;
 }
 ```
-#### - [back to start](#gradebook-App)
+#### - [Back to top](#gradebook-App)
 
 
 
