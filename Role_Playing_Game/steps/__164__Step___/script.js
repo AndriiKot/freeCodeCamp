@@ -1,126 +1,4 @@
-<a id=top></a>
-
-# Role Playing Game
-
-JavaScript is a powerful scripting language that
-you can use to make web pages interactive.
-It's one of the core technologies of the web,
-along with HTML and CSS. All modern browsers support JavaScript.
-
-In this practice project, you'll learn fundamental
-programming concepts in JavaScript by coding your
-own Role Playing Game. You'll learn how to work
-with arrays, strings, objects, functions,
-loops, if/else statements, and more.
-
-#### preview
-
-![preview 'Role Playing Game'](https://github.com/AndriiKot/JS__Role_Playing_Game__FreeCodeCamp/blob/main/preview/preview_role_playing_game.png)
-
-| [index.html](#indexhtml) | [styles.css](#stylescss) | [script.js](#scriptjs)
-|-----------------------------|-----------------------|--------------------------|
-
-
-[Back to top](#top)
-
-### index.html
-
-```html
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="./index.html" />
-    <link rel="stylesheet" href="./styles.css">
-    <title>RPG - Dragon Repeller</title>
-  </head>
-  <body>
-    <div id="game">
-      <div id="stats">
-        <span class="stat">XP: <strong><span id="xpText">0</span></strong></span>
-        <span class="stat">Health: <strong><span id="healthText">100<span></strong></span>
-        <span class="stat">Gold: <strong><span id="goldText">50</span></strong></span>
-      </div>
-      <div id="controls">
-        <button id="button1">Go to store</button>
-        <button id="button2">Go to cave</button>
-        <button id="button3">Fight dragon</button>
-      </div>
-      <div id="monsterStats">
-        <span class="stat">Monster Name: <strong><span id="monsterName"></span></strong></span>
-        <span class="stat">Health: <strong><span id="monsterHealth"></span></strong></span>
-      </div>
-      <div id="text">
-            Welcome to Dragon Repeller.
-            You must defeat the dragon that
-            is preventing people from leaving the town.
-            You are in the town square.
-            Where do you want to go? Use the buttons above.
-      </div>
-    </div>
-    <script src="./script.js"></script>
-  </body>
-</html>
-```
-
-[Back to top](#top)
-
-### styles.css
-
-```css
-body {
-  background-color: #0a0a23;
-}
-
-#text {
-  background-color: #0a0a23;
-  color: #ffffff;
-  padding: 10px;
-}
-
-#game {
-  max-width: 500px;
-  max-height: 400px;
-  background-color: #ffffff;
-  color: #ffffff;
-  margin: 30px auto 0px;
-  padding: 10px;
-}
-
-#controls,
-#stats {
-  border: 1px solid #0a0a23;
-  color: #0a0a23;
-  padding: 5px;
-}
-
-#monsterStats {
-  display: none;
-  border: 1px solid #0a0a23;
-  padding: 5px;
-  background-color: #c70d0d;
-  color: #ffffff;
-}
-
-.stat {
-  padding-right: 10px;
-}
-
-button {
-  cursor: pointer;
-  color: #0a0a23;
-  background-color: #feac32;
-  background-image: linear-gradient(#fecc4c, #ffac33);
-  border: 3px solid #feac32;
-}
-```
-
-[Back to top](#top)
-
-### script.js
-```js
-let xp = 0;
+﻿let xp = 0;
 let health = 100;
 let gold = 50;
 let currentWeaponIndex = 0;
@@ -180,7 +58,7 @@ const locations = [
   {
     name: "kill monster",
     "button text": ["Go to town square", "Go to town square", "Go to town square"],
-    "button functions": [goTown, goTown, easterEgg],
+    "button functions": [goTown, goTown, goTown], 
     text: 'The monster screams "Arg!" as it dies. You gain experience points and find gold.'
   },
   {
@@ -203,6 +81,7 @@ const locations = [
   }
 ];
 
+// initialize buttons
 button1.onclick = goStore;
 button2.onclick = goCave;
 button3.onclick = fightDragon;
@@ -294,7 +173,7 @@ function getMonsterAttackValue(level) {
 
 function fightDragon() {
   fighting = 2;
-  goFight();
+  goFight();  
 }
 
 function buyHealth() {
@@ -366,29 +245,15 @@ function restart() {
   inventory = ['stick'];
   xpText.innerText = xp;
   healthText.innerText = health;
-  goldText.innerText = gold;
+  goldText.innerText = gold; 
   goTown();
 };
 
 function pick(guess) {
   const numbers = [];
-  for (let i = 0; i < 10; i++) {
+  while (numbers.length < 10) {
     numbers.push(Math.floor(Math.random() * 11));
-    text.innerText += numbers[i] + "\n";
   };
-  if (numbers.includes(guess)) {
-    text.innerText += "Right! You win 20 gold!";
-    gold += 20;
-    goldText.innerText = gold;
-  } else {
-    text.innerText += "Wrong! You lose 10 health!";
-    health -= 10;
-    healthText.innerText = health;
-    if (health <= 0) {
-      lose();
-    };
-  }
-  text.innerText = "You picked " + guess + ". Here are the random numbers:\n";
 };
 
 function pickTwo() {
@@ -398,9 +263,3 @@ function pickTwo() {
 function pickEight() {
   pick(8);
 };
-```
-
-[Back to top](#top)
-
-
-
