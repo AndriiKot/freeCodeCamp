@@ -10,6 +10,9 @@ In this project, you will help CamperBot build a random background color changer
 
 ![preview 'Random Background Color Changer step 1'](https://github.com/AndriiKot/JS__Random_Background_Color_Changer__freeCodeCamp/blob/main/preview/step1.png)
 
+| [index.html](#indexhtml) | [styles.css](#stylescss) | [script.js](#scriptjs) |
+| ------------------------ | ------------------------ | ---------------------- |
+
 ### technologies
 
 <table>
@@ -40,5 +43,99 @@ In this project, you will help CamperBot build a random background color changer
     </tr>
   </tbody>
 </table>
+
+[back to top](#top)
+
+### index.html
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Build a random background color changer</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <h1>Random Background Color changer</h1>
+
+    <main>
+      <section class="bg-information-container">
+        <p>Hex Code: <span id="bg-hex-code">#110815</span></p>
+      </section>
+
+      <button class="btn" id="btn">Change Background Color</button>
+    </main>
+    <script src="./script.js"></script>
+  </body>
+</html>
+```
+
+[back to top](#top)
+
+### styles.css
+
+```css
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --yellow: #f1be32;
+  --golden-yellow: #feac32;
+  --dark-purple: #110815;
+  --light-grey: #efefef;
+}
+
+body {
+  background-color: var(--dark-purple);
+  color: var(--light-grey);
+  text-align: center;
+}
+
+.bg-information-container {
+  margin: 15px 0 25px;
+  font-size: 1.2rem;
+}
+
+.btn {
+  cursor: pointer;
+  padding: 10px;
+  margin: 10px;
+  color: var(--dark-purple);
+  background-color: var(--golden-yellow);
+  background-image: linear-gradient(#fecc4c, #ffac33);
+  border-color: var(--golden-yellow);
+  border-width: 3px;
+}
+
+.btn:hover {
+  background-image: linear-gradient(#ffcc4c, #f89808);
+}
+```
+
+[back to top](#top)
+
+### script.js
+
+```js
+const darkColorsArr = [
+  "#2C3E50",
+  "#34495E",
+  "#2C2C2C",
+  "#616A6B",
+  "#4A235A",
+  "#2F4F4F",
+  "#0E4B5A",
+  "#36454F",
+  "#2C3E50",
+  "#800020",
+];
+```
 
 [back to top](#top)
