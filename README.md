@@ -6,6 +6,10 @@ Debugging is the process of going through your code, finding any issues, and fix
 
 In this project, you will help CamperBot build a random background color changer and help them find and fix errors.
 
+#### preview
+
+![preview 'Random Background Color Changer step 1'](https://github.com/AndriiKot/JS__Random_Background_Color_Changer__freeCodeCamp/tree/main/preview/step1.png)
+
 ### technologies
 
 <table>
