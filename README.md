@@ -8,7 +8,7 @@ In this project, you will help CamperBot build a random background color changer
 
 #### preview
 
-![preview 'Random Background Color Changer step 1'](https://github.com/AndriiKot/JS__Random_Background_Color_Changer__freeCodeCamp/tree/main/preview/step1.png)
+![preview 'Random Background Color Changer step 1'](https://github.com/AndriiKot/JS__Random_Background_Color_Changer__freeCodeCamp/blob/main/preview/step1.png)
 
 ### technologies
 
