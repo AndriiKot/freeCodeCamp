@@ -1,19 +1,10 @@
-# Step 1
+<a id=top></a>
 
-CamperBot is trying to build out a random background color changer. 
-But they keep running into issues and need your help to debug the code.
+# Random Background Color changer
 
-CamperBot has already added the HTML and CSS for the project. 
-But they are confused as to why none of the styles and content is showing up on the page.
+Debugging is the process of going through your code, finding any issues, and fixing them.
 
-When they open up the console they see this message:
-
-Example Code
-SyntaxError: unknown: Unexpected token, expected "," (5:2)
-Syntax errors are thrown when the JavaScript engine encounters something it can't interpret. 
-In this case, it looks like CamperBot has syntax errors in the darkColorsArr array.
-
-Fix the syntax errors in the darkColorsArr array and you should see the content and styles show up on the page.
+In this project, you will help CamperBot build a random background color changer and help them find and fix errors.
 
 #### preview
 
@@ -51,6 +42,4 @@ Fix the syntax errors in the darkColorsArr array and you should see the content 
 </table>
 
 [back to top](#top)
-
-
 
