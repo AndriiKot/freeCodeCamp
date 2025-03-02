@@ -123,7 +123,7 @@ body {
 
 ### script.js
 
-```js
+````js
 const darkColorsArr = [
   "#2C3E50",
   "#34495E",
@@ -136,6 +136,12 @@ const darkColorsArr = [
   "#2C3E50",
   "#800020",
 ];
+
+function getRandomIndex() {
+  console.log(darkColorsArr.length * Math.random())
+}
+
+getRandomIndex();
 ```
 
 [back to top](#top)
