@@ -321,9 +321,9 @@ function changeBackgroundColor() {
   bgHexCodeSpanElement.innerText = color;
   body.style.backgroundColor = color;
 }
-
 const btn = document.querySelector("#btn");
-console.log(btn);
+
+btn.onclick = changeBackgroundColor;
 ```
 
 [back to top](#top)
