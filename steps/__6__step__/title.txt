@@ -1,4 +1,4 @@
-Step 6Passed
+Step 6
 CamperBot has now created a function
 called changeBackgroundColor that changes
 the background color of the page to a random color
