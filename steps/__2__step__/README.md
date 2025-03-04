@@ -1,5 +1,27 @@
 <a id=top></a>
 
+<details>
+  <summary>
+    <h4>Description of the task</h4>
+  </summary>
+  <h3>Step 2</h3>
+  <p>
+    Now, CamperBot is trying to create a function that will return a random index from the <code>darkColorsArr</code>. But they have run into the following error message:
+  </p>
+  <details>
+    <summary>
+      <h5>Example Code</h5>
+    </summary>
+    <code>Uncaught ReferenceError: math is not defined</code>
+  </details>
+  <p>
+    A <code>ReferenceError</code> is thrown when a non-existent variable is referenced. In this case, it looks like CamperBot is trying to use <code>math</code> but JavaScript doesn't have a <code>math</code> object.
+  </p>
+  <p>
+    Fix CamperBot's error in the <code>math.random()</code> line and open up the console again.
+  </p>
+</details>
+
 # Random Background Color changer
 
 Debugging is the process of going through your code, finding any issues, and fixing them.

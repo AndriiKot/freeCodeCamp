@@ -6,6 +6,116 @@ Debugging is the process of going through your code, finding any issues, and fix
 
 In this project, you will help CamperBot build a random background color changer and help them find and fix errors.
 
+<details>
+  <summary>
+    <h4>Description of the Tasks</h4>
+  </summary>
+  <details>
+      <summary>
+        <h5>Step 1</h5>
+      </summary>
+      <p>
+        CamperBot is trying to build out a random background color changer. But they keep running into issues and need your help to debug the code
+      </p>
+      <p>
+        CamperBot has already added the HTML and CSS for the project. But they are confused as to why none of the styles and content is showing up on the page.
+      </p>
+      <p>
+        When they open up the console they see this message:
+      </p>
+      <details>
+        <summary>
+          <h5>Example Code</h5>
+        </summary>
+        <code>SyntaxError: unknown: Unexpected token, expected "," (5:2)</code>
+      </details>
+      <p>
+        Syntax errors are thrown when the JavaScript engine encounters something it can't interpret. In this case, it looks like CamperBot has syntax errors in the <code>darkColorsArr</code> array.
+      </p>
+      <p>
+        Fix the syntax errors in the <code>darkColorsArr</code> array and you should see the content and styles show up on the page.
+      </p>
+  </details>
+  <details>
+    <summary>
+      <h5>Step 2</h5>
+    </summary>
+    <p>
+      Now, CamperBot is trying to create a function that will return a random index from the <code>darkColorsArr</code>. But they have run into the following error message:
+    </p>
+    <details>
+      <summary>
+        <h5>Example Code</h5>
+      </summary>
+      <code>Uncaught ReferenceError: math is not defined</code>
+    </details>
+    <p>
+      A <code>ReferenceError</code> is thrown when a non-existent variable is referenced. In this case, it looks like CamperBot is trying to use <code>math</code> but JavaScript doesn't have a <code>math</code> object.
+    </p>
+    <p>
+      Fix CamperBot's error in the <code>math.random()</code> line and open up the console again.
+    </p>
+  </details>
+  <details>
+  <summary>
+    <h5>Step 3</h5>
+  </summary>
+        <p>
+          Now that the <code>ReferenceError</code> is resolved, the console is displaying the correct results for a random number between <code>0</code> and <code>9</code>. But CamperBot was not expecting to see decimal numbers like these:
+        </p>
+            <details>
+                <summary>
+                    <h5>Example Code</h5>
+                </summary>
+                <code>0.015882899879771095</code><br>
+                <code>2.114596286197641</code><br>
+                <code>6.040964780197666</code><br>
+            </details>
+        <p>
+            Update the <code>console</code> statement to print a whole number between <code>0</code> and <code>9</code>.
+        </p>
+        <p>
+            Remember that you worked with a method in the Role Playing Game that rounds a number down to the nearest whole number.
+        </p>
+    </details>
+    <details>
+    <summary>
+      <h5>Step 4</h5>
+    </summary>
+    <p>
+        CamperBot is finished with building out the
+        getRandomIndex function and it is working as expected. But now they are running into this issue
+        when trying to create a reference to the <code>body</code> element in the DOM:
+    </p>
+    <p>
+        <code>Uncaught TypeError: document.queryselector is not a function</code>
+    </p>
+    <p>
+        A TypeError means that the code is trying to perform
+        an operation on a value that is not of the expected type.
+    </p>
+    <p>
+        Fix the TypeError by updating the document.queryselector
+        method to the correct method name that selects an element from the DOM.
+    </p>
+  </details>
+  <details>
+    <summary>
+      <h5>Step 5</h5>
+    </summary>
+      <p>
+        CamperBot has created a new variable called <code>bgHexCodeSpanElement</code> to store the reference to the <code>span</code> element with the <code>id</code> of <code>bg-hex-code</code>. However, when they try to log that variable to the console, they get <code>null</code>.
+      </p>
+      <p>
+        <code>null</code> is a special value in JavaScript that represents the absence of a value. This can happen when you try to access a property of an object that doesn't exist
+        In this case, CamperBot is not passing in the correct selector to the <code>document.querySelector</code> method
+      </p>
+      <p>
+        Fix the <code>document.querySelector("bg-hex-code")</code> line so that it correctly selects the element with the <code>id</code> of <code>bg-hex-code</code>.
+      </p>
+  </details>
+</details>
+
 #### preview
 
 ![preview 'Random Background Color Changer step 4'](https://github.com/AndriiKot/JS__Random_Background_Color_Changer__freeCodeCamp/blob/main/preview/step1.png)
@@ -144,6 +254,9 @@ function getRandomIndex() {
 getRandomIndex();
 
 const body = document.querySelector("body");
+const bgHexCodeSpanElement = document.querySelector("#bg-hex-code");
+
+console.log(bgHexCodeSpanElement);
 ```
 
 [back to top](#top)
