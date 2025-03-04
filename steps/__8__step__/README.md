@@ -4,20 +4,24 @@
   <summary>
     <h4>Description of the task</h4>
   </summary>
-  <h3>Step 7</h3>
-      <p>
-          CamperBot is trying to create a new variable called <code>btn</code> to store the reference to the button element with the <code>id</code> of <code>click-btn</code>
-      </p>
-      <p>
-          However, when they try to log the button element to the console, they see that the button element is <code>null</code>.
-      </p>
-      <p>
-           Open up the <code>index.html</code> to see the correct <code>id</code> name for that button element.
-      </p>
-      <p>
-          Then fix the error for the <code>document.querySelector("#click-btn");</code> line.
-      </p>
+  <h3>Step 8</h3>
+  <p>
+    CamperBot has finished building out their random background color changer. However, when they click the button, the background color does not change.
+  </p>
+  <p>
+    It looks like they are trying to use the <code>onclick</code> property but they are using it incorrectly. The <code>onclick</code> property should be assigned a function reference.
+  </p>
+  <p>
+      Fix the error in the <code>btn.onclick = changeBackgroundColor;</code> line.
+  </p>
+  <p>
+      Remember that you worked with the <code>onclick</code> property in the Role playing game project. Look back at the final solution to see how <code>onclick</code> was properly used.
+  </p>
+  <p>
+      Once you fix that final bug, the random background color changer will be complete!
+  </p>
 </details>
+
 
 # Random Background Color changer
 
