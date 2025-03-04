@@ -154,8 +154,27 @@ In this project, you will help CamperBot build a random background color changer
             Then fix the error for the <code>document.querySelector("#click-btn");</code> line.
         </p>
     </details>
+    <details>
+      <summary>
+        <h5>Step 8</h5>
+      </summary>
+        <p>
+          CamperBot has finished building out their random background color changer. However, when they click the button, the background color does not change.
+        </p>
+        <p>
+          It looks like they are trying to use the <code>onclick</code> property but they are using it incorrectly. The <code>onclick</code> property should be assigned a function reference.
+        </p>
+        <p>
+            Fix the error in the <code>btn.onclick = changeBackgroundColor;</code> line.
+        </p>
+        <p>
+            Remember that you worked with the <code>onclick</code> property in the Role playing game project. Look back at the final solution to see how <code>onclick</code> was properly used.
+        </p>
+        <p>
+            Once you fix that final bug, the random background color changer will be complete!
+        </p>
+    </details>
 </details>
-
 
 ### technologies
 
