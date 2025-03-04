@@ -114,7 +114,31 @@ In this project, you will help CamperBot build a random background color changer
         Fix the <code>document.querySelector("bg-hex-code")</code> line so that it correctly selects the element with the <code>id</code> of <code>bg-hex-code</code>.
       </p>
   </details>
+  <details>
+  <summary>
+    <h5>Step 6</h5>
+  </summary>
+      <p>
+        CamperBot has now created a function called <code>changeBackgroundColor</code> that changes the background color of the page to a random color from the <code>darkColorsArr</code> array. The function also displays the hex code for that new color.
+      </p>
+      <p>
+        When they try to test out this function, they notice that the background color is not changing and the text shows the following:
+      </p>
+      <details>
+        <summary>
+          <h5>Example Code</h5>
+        </summary>
+        <code>Hex Code: undefined</code>
+      </details>
+      <p>
+        <code>undefined</code> is showing up here because the <code>color</code> variable is not being set correctly.
+      </p>
+      <p>
+        Fix the error in the <code>darkColorsArr[getRandomIndex]</code> line so that the color variable is set to a random color from the <code>darkColorsArr</code> array.
+      </p>
+    </details>
 </details>
+
 
 ### technologies
 
