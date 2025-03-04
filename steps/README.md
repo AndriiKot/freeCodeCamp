@@ -137,11 +137,28 @@ In this project, you will help CamperBot build a random background color changer
         Fix the error in the <code>darkColorsArr[getRandomIndex]</code> line so that the color variable is set to a random color from the <code>darkColorsArr</code> array.
       </p>
     </details>
+    <details>
+      <summary>
+        <h5>Step 7</h5>
+      </summary>
+        <p>
+            CamperBot is trying to create a new variable called <code>btn</code> to store the reference to the button element with the <code>id</code> of <code>click-btn</code>
+        </p>
+        <p>
+            However, when they try to log the button element to the console, they see that the button element is <code>null</code>.
+        </p>
+        <p>
+             Open up the <code>index.html</code> to see the correct <code>id</code> name for that button element.
+        </p>
+        <p>
+            Then fix the error for the <code>document.querySelector("#click-btn");</code> line.
+        </p>
+    </details>
 </details>
 
 #### preview
 
-![preview 'Random Background Color Changer step 6'](https://github.com/AndriiKot/JS__Random_Background_Color_Changer__freeCodeCamp/blob/main/preview/step1.png)
+![preview 'Random Background Color Changer step 7'](https://github.com/AndriiKot/JS__Random_Background_Color_Changer__freeCodeCamp/blob/main/preview/step1.png)
 
 | [index.html](#indexhtml) | [styles.css](#stylescss) | [script.js](#scriptjs) |
 | ------------------------ | ------------------------ | ---------------------- |
