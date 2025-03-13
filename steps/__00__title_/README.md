@@ -17,7 +17,7 @@ template literals, the <code>addEventListener()</code> method, and more.
 
 #### preview
 
-![preview 'Random Background Color Changer'](https://github.com/AndriiKot/JS__Validation_by_Building_a_Calorie_Counter__freeCodeCamp/blob/main/images/previews/preview_step01.png)
+![preview 'Random Background Color Changer'](https://github.com/AndriiKot/JS__Validation_by_Building_a_Calorie_Counter__freeCodeCamp/blob/main/images/previews/preview_project.png)
 
 ### technologies
 
