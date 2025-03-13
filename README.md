@@ -24,7 +24,7 @@
 
 #### preview
 
-![preview 'Random Background Color Changer'](https://github.com/AndriiKot/JS__Validation_by_Building_a_Calorie_Counter__freeCodeCamp/blob/variation_2/images/previews/preview_step01.png)
+![preview 'Random Background Color Changer'](https://github.com/AndriiKot/JS__Validation_by_Building_a_Calorie_Counter__freeCodeCamp/blob/main/images/previews/preview_step01.png)
 
 ### technologies
 
@@ -185,7 +185,7 @@ select {
 ### script.js
 
 ```js
-'use strict';
+"use strict";
 ```
 
 [Back to top](#top)
