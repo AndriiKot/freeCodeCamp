@@ -4,9 +4,12 @@
 
 <details>
   <summary>
-    <h4>Description of the task</h4>
+    <h4>Description of the Tasks</h4>
   </summary>
-  <h3>Step 1</h2>
+  <details>
+    <summary>
+      <h5>Step 1</h5>
+    </summary>
   <p>
     In this project, you'll learn to create a calorie counter form that enables users to input their daily calorie budget and the calorie counts of various meals. The form will then calculate and display whether the user is in a calorie deficit or surplus.
   </p>
@@ -16,11 +19,12 @@
   <p>
     Feel free to explore the HTML and CSS, then add a <code>form</code> element and give it an <code>id</code> set to <code>calorie-counter</code>.
   </p>
+  </details>
 </details>
 
 #### preview
 
-![preview 'Random Background Color Changer'](https://github.com/AndriiKot/JS__Validation_by_Building_a_Calorie_Counter__freeCodeCamp/blob/variation_2/preview/preview_step01.png)
+![preview 'Random Background Color Changer'](https://github.com/AndriiKot/JS__Validation_by_Building_a_Calorie_Counter__freeCodeCamp/blob/main/images/previews/preview_step01.png)
 
 ### technologies
 
@@ -36,17 +40,17 @@
     <tr>
       <td height=33 width=91>
         <a href=https://ecma-international.org/publications-and-standards/standards/>
-          <img src=https://github.com/AndriiKot/JS__Validation_by_Building_a_Calorie_Counter__freeCodeCamp/blob/main/preview/icons/javascript-1.svg alt=JavaScript>
+          <img src=https://github.com/AndriiKot/JS__Validation_by_Building_a_Calorie_Counter__freeCodeCamp/blob/main/images/icons/javascript-1.svg alt=JavaScript>
         </a>
       </td>
       <td height=33 width=91>
         <a href=https://www.w3.org/Style/CSS/>
-          <img src=https://github.com/AndriiKot/JS__Validation_by_Building_a_Calorie_Counter__freeCodeCamp/blob/main/preview/icons/css.svg alt=CSS>
+          <img src=https://github.com/AndriiKot/JS__Validation_by_Building_a_Calorie_Counter__freeCodeCamp/blob/main/images/icons/css.svg alt=CSS>
         </a>
       </td>
       <td height=33 width=91>
         <a href=https://html.spec.whatwg.org/multipage/>
-          <img src=https://github.com/AndriiKot/JS__Validation_by_Building_a_Calorie_Counter__freeCodeCamp/blob/main/preview/icons/html.svg alt=HTML>
+          <img src=https://github.com/AndriiKot/JS__Validation_by_Building_a_Calorie_Counter__freeCodeCamp/blob/main/images/icons/html.svg alt=HTML>
         </a>
       </td>
     </tr>
@@ -181,7 +185,7 @@ select {
 ### script.js
 
 ```js
-'use strict';
+"use strict";
 ```
 
 [Back to top](#top)
