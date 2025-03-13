@@ -4,12 +4,9 @@
 
 <details>
   <summary>
-    <h4>Description of the Tasks</h4>
+    <h4>Description of the task</h4>
   </summary>
-  <details>
-    <summary>
-      <h5>Step 1</h5>
-    </summary>
+  <h3>Step 1</h2>
   <p>
     In this project, you'll learn to create a calorie counter form that enables users to input their daily calorie budget and the calorie counts of various meals. The form will then calculate and display whether the user is in a calorie deficit or surplus.
   </p>
@@ -19,7 +16,6 @@
   <p>
     Feel free to explore the HTML and CSS, then add a <code>form</code> element and give it an <code>id</code> set to <code>calorie-counter</code>.
   </p>
-  </details>
 </details>
 
 #### preview
@@ -185,7 +181,7 @@ select {
 ### script.js
 
 ```js
-"use strict";
+'use strict';
 ```
 
 [Back to top](#top)
