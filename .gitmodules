@@ -1,0 +1,6 @@
+[submodule "automation/.ManagerProject"]
+	path = automation/.ManagerProject
+	url = https://github.com/AndriiKot/Manager_Projects__freeCodeCamp.git
+[submodule "automation/technologies"]
+	path = automation/technologies
+	url = https://github.com/AndriiKot/iconsSVG_and_linksDocs.git
