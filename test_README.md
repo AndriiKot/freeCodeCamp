@@ -194,6 +194,3 @@ select {
 
 
 </details>
-
-[Back to top](#top)
-
