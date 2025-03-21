@@ -1,72 +1,47 @@
 
-
 <a id=top></a>
 
 # Building a Calorie Counter
 
 <details>
-  <summary>
-    <h4>Description of the Tasks</h4>
-  </summary>
-  <details>
-    <summary>
-      <h5>Step 1</h5>
-    </summary>
-  <p>
-    In this project, you'll learn to create a calorie counter form that enables users to input their daily calorie budget and the calorie counts of various meals. The form will then calculate and display whether the user is in a calorie deficit or surplus.
-  </p>
-  <p>
-    You have been provided with boilerplate CSS and HTML. However, you need to build your calorie counter form.
-  </p>
-  <p>
-    Feel free to explore the HTML and CSS, then add a <code>form</code> element and give it an <code>id</code> set to <code>calorie-counter</code>.
-  </p>
-  </details>
+      <summary>
+        <h4>Follow Links Steps</h4>
+      </summary>
+       
+<table>
+  <thead>
+    <tr><th><a href="https://github.com/AndriiKot/JS__Validation_by_Building_a_Calorie_Counter__freeCodeCamp//tree/main/steps/__00__title_" target="_self">Step 0</a></th><th><a href="https://github.com/AndriiKot/JS__Validation_by_Building_a_Calorie_Counter__freeCodeCamp//tree/main/steps/__01__step__" target="_self">Step 1</a></th></tr>
+  </thead>
+  <tbody>
+  </tbody>
+</table>
 </details>
+<h4>preview</h4>
+    <img src="https://github.com/AndriiKot/JS__Validation_by_Building_a_Calorie_Counter__freeCodeCamp/blob/main/images/previews/preview_step01.png" alt="preview_step01">
+  
 
-#### preview
+[Back to top](#top)
 
-![preview 'Random Background Color Changer'](https://github.com/AndriiKot/JS__Validation_by_Building_a_Calorie_Counter__freeCodeCamp/blob/variation_2/preview/preview_step01.png)
-
-### technologies
 
 <table>
   <thead>
-    <tr>
-      <th height=33 width=91>JavaScript</th>
-      <th height=33 width=91>CSS</th>
-      <th height=33 width=91>HTML</th>
-    </tr>
+      <tr><th height=33 width=100>JavaScript</th><th height=33 width=100>CSS</th><th height=33 width=100>HTML5</th></tr>
   </thead>
   <tbody>
-    <tr>
-      <td height=33 width=91>
-        <a href=https://ecma-international.org/publications-and-standards/standards/>
-          <img src=https://github.com/AndriiKot/JS__Validation_by_Building_a_Calorie_Counter__freeCodeCamp/blob/main/preview/icons/javascript-1.svg alt=JavaScript>
-        </a>
-      </td>
-      <td height=33 width=91>
-        <a href=https://www.w3.org/Style/CSS/>
-          <img src=https://github.com/AndriiKot/JS__Validation_by_Building_a_Calorie_Counter__freeCodeCamp/blob/main/preview/icons/css.svg alt=CSS>
-        </a>
-      </td>
-      <td height=33 width=91>
-        <a href=https://html.spec.whatwg.org/multipage/>
-          <img src=https://github.com/AndriiKot/JS__Validation_by_Building_a_Calorie_Counter__freeCodeCamp/blob/main/preview/icons/html.svg alt=HTML>
-        </a>
-      </td>
-    </tr>
+      <tr><td height=100 width=100><a href=https://ecma-international.org/publications-and-standards/standards/ target="_self"><img src=https://github.com/AndriiKot/iconsSVG_and_linksDocs/blob/main/svg/javascript-1.svg alt=JavaScript></a></td><td height=100 width=100><a href=https://www.w3.org/Style/CSS/ target="_self"><img src=https://github.com/AndriiKot/iconsSVG_and_linksDocs/blob/main/svg/css.svg alt=CSS></a></td><td height=100 width=100><a href=https://html.spec.whatwg.org/multipage/ target="_self"><img src=https://github.com/AndriiKot/iconsSVG_and_linksDocs/blob/main/svg/html.svg alt=HTML5></a></td></tr>
   </tbody>
-</table>
-
-| [index.html](#indexhtml) | [styles.css](#stylescss) | [script.js](#scriptjs) |
-| ------------------------ | ------------------------ | ---------------------- |
-
 </table>
 
 [Back to top](#top)
 
-### index.html
+
+
+<details open>
+  <summary>
+    <h4>index.html</h4>
+  </summary>
+
+
 
 ```html
 <!DOCTYPE html>
@@ -86,11 +61,41 @@
     </main>
   </body>
 </html>
+
 ```
+
+
 
 [Back to top](#top)
 
-### styles.css
+
+</details>
+
+<details open>
+  <summary>
+    <h4>script.js</h4>
+  </summary>
+
+
+
+```js
+'use strict';
+
+```
+
+
+
+[Back to top](#top)
+
+
+</details>
+
+<details open>
+  <summary>
+    <h4>styles.css</h4>
+  </summary>
+
+
 
 ```css
 :root {
@@ -180,14 +185,12 @@ select {
 .deficit {
   color: var(--light-green);
 }
+
 ```
+
+
 
 [Back to top](#top)
 
-### script.js
 
-```js
-'use strict';
-```
-
-[Back to top](#top)
+</details>
