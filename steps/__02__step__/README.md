@@ -5,7 +5,7 @@
 
 <details>
       <summary>
-        <h4>Follow Links Steps</h4>
+        <h4>Description of the Task</h4>
       </summary>
        
 <table>
