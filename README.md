@@ -1,5 +1,4 @@
 
-
 <a id=top></a>
 
 # Building a Calorie Counter
@@ -21,7 +20,7 @@
     <img src="https://github.com/AndriiKot/JS__Validation_by_Building_a_Calorie_Counter__freeCodeCamp/blob/main/images/previews/preview_step01.png" alt="preview_step01">
   
 
-[Back to top](#top)
+[back to top](#top)
 
 
 <table>
@@ -33,7 +32,7 @@
   </tbody>
 </table>
 
-[Back to top](#top)
+[back to top](#top)
 
 
 
@@ -67,7 +66,7 @@
 
 
 
-[Back to top](#top)
+[back to top](#top)
 
 
 </details>
@@ -86,7 +85,7 @@
 
 
 
-[Back to top](#top)
+[back to top](#top)
 
 
 </details>
@@ -191,7 +190,7 @@ select {
 
 
 
-[Back to top](#top)
+[back to top](#top)
 
 
 </details>
