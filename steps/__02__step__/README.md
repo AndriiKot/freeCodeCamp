@@ -10,9 +10,15 @@
        <h3>Step  2</h3>
 
 
-In your form, users will be able to input a number which represents their daily calorie budget.
-Create a label element, give it a for attribute set to budget and the text Budget, then create an input element with the id set to budget.
-
+In your form, users will be able 
+to input a number which represents their 
+daily calorie budget.
+Create a label element, give 
+it a for attribute set to budget 
+and the text Budget, then create an 
+input element with the id set to 
+budget.
+ 
       </details>
 
 <h4>preview</h4>
