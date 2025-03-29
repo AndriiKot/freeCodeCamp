@@ -13,27 +13,36 @@ Step  2
 
 Step  2
 
+Step  2
 
-In your form, 
+
+In 
+your form, 
 users will 
 be able 
-to input a 
+to 
+input a 
 number which 
 represents their 
-daily calorie budget.
+daily 
+calorie budget.
 Create 
 a label 
 element, give 
-it a for 
+it 
+a for 
 attribute set 
 to budget 
-and the text 
+and 
+the text 
 Budget, then 
 create an 
-input element with 
+input 
+element with 
 the id 
 set to 
 budget.
+ 
    
       </details>
 
