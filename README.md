@@ -15,7 +15,6 @@
   <tbody>
   </tbody>
 </table>
-
       </details>
 
 <h4>preview</h4>
