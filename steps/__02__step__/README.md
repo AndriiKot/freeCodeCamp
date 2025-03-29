@@ -10,7 +10,9 @@
        <h3>Step  2</h3>
 
 
+
 Inyourform,userswillbeabletoinputanumberwhichrepresentstheirdailycaloriebudget.Createalabelelement,giveitaforattributesettobudgetandthetextBudget,thencreateaninputelementwiththeidsettobudget. 
+ 
       </details>
 
 <h4>preview</h4>
