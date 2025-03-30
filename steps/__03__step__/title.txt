@@ -1,4 +1,11 @@
-<section id="description">
-<p>Your <code>input</code> element needs some additional attributes. Give it a <code>type</code> set to <code>number</code> to only allow numeric inputs, a <code>min</code> attribute set to <code>0</code> to only allow positive numbers, and a <code>placeholder</code> set to <code>Daily calorie budget</code>.</p>
-<p>Finally, mark the <code>input</code> element as <code>required</code>.</p>
-</section>
+Step  3
+
+Your input element needs some 
+additional attributes. Give it a type set 
+to number to only allow numeric inputs, 
+a min attribute set to 0 to 
+only allow positive numbers, and a placeholder 
+set to Daily calorie budget.
+Finally, mark the 
+input element as required.
+ 

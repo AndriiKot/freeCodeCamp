@@ -7,16 +7,16 @@
       <summary>
         <h4>Description of the Task</h4>
       </summary>
-       <h3>Step  2</h3>
+       <h3>Step  3</h3>
 
 <section>
-<p>In your form, users will be able to input a number which represents their daily calorie budget.</p>
-<p>Create a <code>label</code> element, give it a <code>for</code> attribute set to <code>budget</code> and the text <code>Budget</code>, then create an <code>input</code> element with the <code>id</code> set to <code>budget</code>.</p>
+<p>Your <code>input</code> element needs some additional attributes. Give it a <code>type</code> set to <code>number</code> to only allow numeric inputs, a <code>min</code> attribute set to <code>0</code> to only allow positive numbers, and a <code>placeholder</code> set to <code>Daily calorie budget</code>.</p>
+<p>Finally, mark the <code>input</code> element as <code>required</code>.</p>
 </section>
 </details>
 
 <h4>preview</h4>
-    <img src="https://github.com/AndriiKot/JS__Validation_by_Building_a_Calorie_Counter__freeCodeCamp/blob/main/images/previews/preview_step02.png" alt="preview_step02">
+    <img src="https://github.com/AndriiKot/JS__Validation_by_Building_a_Calorie_Counter__freeCodeCamp/blob/main/images/previews/preview_step03.png" alt="preview_step03">
   
 
 [back to top](#top)
@@ -48,7 +48,7 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="styles.css" />
+    <link rel="stylesheet" href="styles.css"  />
     <title>Calorie Counter</title>
   </head>
   <body>
@@ -57,7 +57,13 @@
       <div class="container">
         <form id="calorie-counter">
           <label for="budget">Budget</label>
-          <input id="budget" />
+          <input
+            id="budget"
+            type="number"
+            min="0"
+            placeholder="Daily calorie budget"
+            required
+          />
         </form>
       </div>
     </main>
