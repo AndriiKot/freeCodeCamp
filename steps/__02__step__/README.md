@@ -12,6 +12,8 @@
 <section>
 <p>In your form, users will be able to input a number which represents their daily calorie budget.</p>
 <p>Create a <code>label</code> element, give it a <code>for</code> attribute set to <code>budget</code> and the text <code>Budget</code>, then create an <code>input</code> element with the <code>id</code> set to <code>budget</code>.</p>
+<p>In your form, users will be able to input a number which represents their daily calorie budget.</p>
+<p>Create a <code>label</code> element, give it a <code>for</code> attribute set to <code>budget</code> and the text <code>Budget</code>, then create an <code>input</code> element with the <code>id</code> set to <code>budget</code>.</p>
 </section>
       </details>
 
@@ -55,7 +57,10 @@
     <main>
       <h1>Calorie Counter</h1>
       <div class="container">
-        <form id="calorie-counter"></form>
+        <form id="calorie-counter">
+          <label for="budget">Budget</label>
+          <input id="budget" />
+        </form>
       </div>
     </main>
   </body>
