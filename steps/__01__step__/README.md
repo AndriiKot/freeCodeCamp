@@ -4,7 +4,7 @@
 
 <details>
   <summary>
-    <h4>Description of the task</h4>
+    <h4>Description of the Task</h4>
   </summary>
   <h3>Step 1</h3>
   <p>
