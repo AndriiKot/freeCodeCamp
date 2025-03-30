@@ -1,5 +1,12 @@
-<section id="description">
-<p>In your form, users should have the capability to add various meal types along with their calorie counts.</p>
-<p>Create a <code>fieldset</code> element with the <code>id</code> set to <code>breakfast</code>.</p>
-<p>Within that element, create a <code>legend</code> with the text <code>Breakfast</code>, and an empty <code>div</code> with the <code>class</code> set to <code>input-container</code>.</p>
-</section>
+Step  4
+
+In your form, users should 
+have the capability to add various meal 
+types along with their calorie counts.
+Create a 
+fieldset element with the id set to 
+breakfast.
+Within that element, create a legend with 
+the text Breakfast, and an empty div 
+with the class set to input-container.
+ 

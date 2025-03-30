@@ -7,16 +7,17 @@
       <summary>
         <h4>Description of the Task</h4>
       </summary>
-       <h3>Step  3</h3>
+       <h3>Step  4</h3>
 
 <section>
-<p>Your <code>input</code> element needs some additional attributes. Give it a <code>type</code> set to <code>number</code> to only allow numeric inputs, a <code>min</code> attribute set to <code>0</code> to only allow positive numbers, and a <code>placeholder</code> set to <code>Daily calorie budget</code>.</p>
-<p>Finally, mark the <code>input</code> element as <code>required</code>.</p>
+<p>In your form, users should have the capability to add various meal types along with their calorie counts.</p>
+<p>Create a <code>fieldset</code> element with the <code>id</code> set to <code>breakfast</code>.</p>
+<p>Within that element, create a <code>legend</code> with the text <code>Breakfast</code>, and an empty <code>div</code> with the <code>class</code> set to <code>input-container</code>.</p>
 </section>
 </details>
 
 <h4>preview</h4>
-    <img src="https://github.com/AndriiKot/JS__Validation_by_Building_a_Calorie_Counter__freeCodeCamp/blob/main/images/previews/preview_step03.png" alt="preview_step03">
+    <img src="https://github.com/AndriiKot/JS__Validation_by_Building_a_Calorie_Counter__freeCodeCamp/blob/main/images/previews/preview_step04.png" alt="preview_step04">
   
 
 [back to top](#top)
@@ -48,22 +49,27 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="styles.css"  />
+    <link rel="stylesheet" href="styles.css" />
     <title>Calorie Counter</title>
   </head>
   <body>
     <main>
+
       <h1>Calorie Counter</h1>
       <div class="container">
         <form id="calorie-counter">
           <label for="budget">Budget</label>
           <input
-            id="budget"
             type="number"
             min="0"
+            id="budget"
             placeholder="Daily calorie budget"
             required
           />
+          <fieldset id="breakfast">
+            <legend>Breakfast</legend>
+            <div class="input-container"></div>
+          </fieldset>
         </form>
       </div>
     </main>
