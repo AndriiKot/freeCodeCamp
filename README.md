@@ -59,7 +59,7 @@
       <div class="container">
         <form id="calorie-counter">
           <label for="budget">Budget</label>
-          <input id="budget"/>
+          <input id="budget" />
         </form>
       </div>
     </main>
