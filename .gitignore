@@ -1,9 +1,6 @@
 ﻿!*.html
 !*.png
 !**/*.svg
-*.log
-.DS_Store
-
 
 
 
