@@ -1,0 +1,4 @@
+<section id="description">
+<p>Your <code>input</code> element needs some additional attributes. Give it a <code>type</code> set to <code>number</code> to only allow numeric inputs, a <code>min</code> attribute set to <code>0</code> to only allow positive numbers, and a <code>placeholder</code> set to <code>Daily calorie budget</code>.</p>
+<p>Finally, mark the <code>input</code> element as <code>required</code>.</p>
+</section>
