@@ -17,6 +17,19 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  5</h3>
+
+<section>
+<p>Next, create a <code>fieldset</code> element with the <code>id</code> set to <code>lunch</code>.</p>
+<p>Within that element, create a <code>legend</code> element with the text <code>Lunch</code>, and an empty <code>div</code> with the <code>class</code> set to <code>input-container</code>.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/JS__Validation_by_Building_a_Calorie_Counter__freeCodeCamp/blob/main/images/previews/preview_step05.png" alt="preview_step05">
   
