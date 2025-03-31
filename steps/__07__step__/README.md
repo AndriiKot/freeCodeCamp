@@ -17,6 +17,16 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  7</h3>
+
+<p>You need two more of these <code>fieldset</code> code blocks – one for <code>snacks</code> and one for <code>exercise</code>.</p>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/JS__Validation_by_Building_a_Calorie_Counter__freeCodeCamp/blob/main/images/previews/preview_step07.png" alt="preview_step07">
   
