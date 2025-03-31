@@ -1,7 +1,22 @@
-
 <a id=top></a>
 
 # Building a Calorie Counter
+
+<details>
+      <summary>
+        <h4>Follow Links Steps</h4>
+      </summary>
+
+<table>
+  <thead>
+    <tr><th><a href="https://github.com/AndriiKot/JS__Validation_by_Building_a_Calorie_Counter__freeCodeCamp//tree/main/steps/__00__title_" target="_self">Step 0</a></th><th><a href="https://github.com/AndriiKot/JS__Validation_by_Building_a_Calorie_Counter__freeCodeCamp//tree/main/steps/__01__step__" target="_self">Step 1</a></th><th><a href="https://github.com/AndriiKot/JS__Validation_by_Building_a_Calorie_Counter__freeCodeCamp//tree/main/steps/__02__step__" target="_self">Step 2</a></th><th><a href="https://github.com/AndriiKot/JS__Validation_by_Building_a_Calorie_Counter__freeCodeCamp//tree/main/steps/__03__step__" target="_self">Step 3</a></th><th><a href="https://github.com/AndriiKot/JS__Validation_by_Building_a_Calorie_Counter__freeCodeCamp//tree/main/steps/__04__step__" target="_self">Step 4</a></th></tr>
+  </thead>
+  <tbody>
+  </tbody>
+</table>
+  </tbody>
+</table>
+</details>
 
 <details>
       <summary>
@@ -18,10 +33,8 @@
 
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/JS__Validation_by_Building_a_Calorie_Counter__freeCodeCamp/blob/main/images/previews/preview_step04.png" alt="preview_step04">
-  
 
 [back to top](#top)
-
 
 <table>
   <thead>
@@ -34,14 +47,10 @@
 
 [back to top](#top)
 
-
-
 <details open>
   <summary>
     <h4>index.html</h4>
   </summary>
-
-
 
 ```html
 <!DOCTYPE html>
@@ -74,13 +83,9 @@
     </main>
   </body>
 </html>
-
 ```
 
-
-
 [back to top](#top)
-
 
 </details>
 
@@ -89,18 +94,11 @@
     <h4>script.js</h4>
   </summary>
 
-
-
 ```js
-'use strict';
-
-
+"use strict";
 ```
 
-
-
 [back to top](#top)
-
 
 </details>
 
@@ -108,8 +106,6 @@
   <summary>
     <h4>styles.css</h4>
   </summary>
-
-
 
 ```css
 :root {
@@ -199,12 +195,8 @@ select {
 .deficit {
   color: var(--light-green);
 }
-
 ```
 
-
-
 [back to top](#top)
-
 
 </details>
