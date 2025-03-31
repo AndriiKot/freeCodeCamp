@@ -17,6 +17,19 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  8</h3>
+
+<section>
+<p>When users want to select a meal type to input their calorie counts, they should be presented with a dropdown menu and a button to add the meal type.</p>
+<p>Start by creating a <code>div</code> element and assign it a <code>class</code> attribute with the value <code>controls</code>. Then, nest a <code>span</code> element inside this <code>div</code>.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/JS__Validation_by_Building_a_Calorie_Counter__freeCodeCamp/blob/main/images/previews/preview_step08.png" alt="preview_step08">
   
