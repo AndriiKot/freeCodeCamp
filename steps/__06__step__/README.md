@@ -17,6 +17,16 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  6</h3>
+
+<p>Continuing the pattern, create a <code>fieldset</code> for <code>dinner</code> with the same nested elements.</p>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/JS__Validation_by_Building_a_Calorie_Counter__freeCodeCamp/blob/main/images/previews/preview_step06.png" alt="preview_step06">
   
