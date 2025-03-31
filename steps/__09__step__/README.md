@@ -17,6 +17,19 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  9</h3>
+
+<section>
+<p>In your <code>span</code> element, create a <code>label</code> element for an <code>entry-dropdown</code> and give it the text <code>Add food or exercise:</code>. Then create a <code>select</code> element with the <code>id</code> set to <code>entry-dropdown</code> and a <code>name</code> set to <code>options</code>. Below that, add a <code>button</code> element with the <code>id</code> set to <code>add-entry</code> and the text <code>Add Entry</code>.</p>
+<p>Give your <code>button</code> element a <code>type</code> attribute set to <code>button</code> to prevent automatic form submission.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/JS__Validation_by_Building_a_Calorie_Counter__freeCodeCamp/blob/main/images/previews/preview_step09.png" alt="preview_step09">
   
