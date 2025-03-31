@@ -9,14 +9,11 @@
       </summary>
        <h3>Step  3</h3>
 
-<section>
-<p>Your <code>input</code> element needs some additional attributes. Give it a <code>type</code> set to <code>number</code> to only allow numeric inputs, a <code>min</code> attribute set to <code>0</code> to only allow positive numbers, and a <code>placeholder</code> set to <code>Daily calorie budget</code>.</p>
-<p>Finally, mark the <code>input</code> element as <code>required</code>.</p>
-</section>
+
 </details>
 
 <h4>preview</h4>
-    <img src="https://github.com/AndriiKot/JS__Validation_by_Building_a_Calorie_Counter__freeCodeCamp/blob/main/images/previews/preview_step03.png" alt="preview_step03">
+    <img src="https://github.com/AndriiKot/JS__Validation_by_Building_a_Calorie_Counter__freeCodeCamp/blob/main/images/previews/preview_step04.png" alt="preview_step04">
   
 
 [back to top](#top)
