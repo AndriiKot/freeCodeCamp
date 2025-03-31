@@ -5,16 +5,15 @@
 
 <details>
       <summary>
-        <h4>Follow Links Steps</h4>
+        <h4>Description of the Task</h4>
       </summary>
-       
-<table>
-  <thead>
-    <tr><th><a href="https://github.com/AndriiKot/JS__Validation_by_Building_a_Calorie_Counter__freeCodeCamp//tree/main/steps/__00__title_" target="_self">Step 0</a></th><th><a href="https://github.com/AndriiKot/JS__Validation_by_Building_a_Calorie_Counter__freeCodeCamp//tree/main/steps/__01__step__" target="_self">Step 1</a></th><th><a href="https://github.com/AndriiKot/JS__Validation_by_Building_a_Calorie_Counter__freeCodeCamp//tree/main/steps/__02__step__" target="_self">Step 2</a></th><th><a href="https://github.com/AndriiKot/JS__Validation_by_Building_a_Calorie_Counter__freeCodeCamp//tree/main/steps/__03__step__" target="_self">Step 3</a></th><th><a href="https://github.com/AndriiKot/JS__Validation_by_Building_a_Calorie_Counter__freeCodeCamp//tree/main/steps/__04__step__" target="_self">Step 4</a></th></tr>
-  </thead>
-  <tbody>
-  </tbody>
-</table>
+       <h3>Step  4</h3>
+
+<section>
+<p>In your form, users should have the capability to add various meal types along with their calorie counts.</p>
+<p>Create a <code>fieldset</code> element with the <code>id</code> set to <code>breakfast</code>.</p>
+<p>Within that element, create a <code>legend</code> with the text <code>Breakfast</code>, and an empty <code>div</code> with the <code>class</code> set to <code>input-container</code>.</p>
+</section>
 </details>
 
 <h4>preview</h4>
