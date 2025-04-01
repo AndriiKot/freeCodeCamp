@@ -17,6 +17,19 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  10</h3>
+
+<section>
+<p>Your select menu needs options for each of the food and exercise <code>fieldset</code> elements you created in the previous steps. Use the <code>option</code> element to create a new option for each <code>fieldset</code>. The <code>value</code> attribute of each option should be the <code>id</code> of the <code>fieldset</code>, and the text of each option should be the text of the <code>legend</code>.</p>
+<p>Set the <code>Breakfast</code> option as the <code>selected</code> option.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/JS__Validation_by_Building_a_Calorie_Counter__freeCodeCamp/blob/main/images/previews/preview_step10.png" alt="preview_step10">
   
