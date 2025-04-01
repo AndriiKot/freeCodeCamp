@@ -17,6 +17,16 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  12</h3>
+
+<p>Your form needs somewhere to display the results. Add an empty <code>div</code> element and give it an <code>id</code> of <code>output</code> and the <code>class</code> values of <code>output</code> and <code>hide</code>.</p>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/JS__Validation_by_Building_a_Calorie_Counter__freeCodeCamp/blob/main/images/previews/preview_step12.png" alt="preview_step12">
   
