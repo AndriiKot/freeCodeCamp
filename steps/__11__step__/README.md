@@ -17,6 +17,19 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  11</h3>
+
+<section>
+<p>Create another <code>div</code> element. Within it, nest a <code>button</code> to <code>submit</code> the form. This button should have the text <code>Calculate Remaining Calories</code>.</p>
+<p>Then add a <code>button</code> with the <code>id</code> set to <code>clear</code> to clear the form (don't forget to give it a <code>type</code> attribute that prevents it from submitting the form). This button needs the text <code>Clear</code>.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/JS__Validation_by_Building_a_Calorie_Counter__freeCodeCamp/blob/main/images/previews/preview_step11.png" alt="preview_step11">
   
