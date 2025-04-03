@@ -17,6 +17,22 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  19</h3>
+
+<section>
+<p>To match specific characters in a string, you can use Regular Expressions or "regex" for short.</p>
+<p>Regex in JavaScript is indicated by a pattern wrapped in forward slashes. The following example will match the string literal <code>"hello"</code>:</p>
+<details class="code-details" open=""><summary class="code-details-summary">Example Code</summary><pre class="language-js" tabindex="0" role="region" aria-label="JavaScript code example"><code class="language-js"><span class="token keyword">const</span> regex <span class="token operator">=</span> <span class="token regex"><span class="token regex-delimiter">/</span><span class="token regex-source language-regex">hello</span><span class="token regex-delimiter">/</span></span><span class="token punctuation">;</span>
+</code></pre></details>
+<p>Declare a <code>regex</code> variable and assign it the value from the example above. In future steps, you will update this regex pattern to match specific characters needed for the calorie counter.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/JS__Validation_by_Building_a_Calorie_Counter__freeCodeCamp/blob/main/images/previews/preview_step19.png" alt="preview_step19">
   
