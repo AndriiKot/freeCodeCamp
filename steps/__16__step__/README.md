@@ -17,6 +17,18 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  16</h3>
+
+<section>
+<p>Following the same pattern, assign your <code>#add-entry</code> element to <code>addEntryButton</code>, your <code>#clear</code> element to <code>clearButton</code>, and your <code>#output</code> element to <code>output</code>.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/JS__Validation_by_Building_a_Calorie_Counter__freeCodeCamp/blob/main/images/previews/preview_step16.png" alt="preview_step16">
   

@@ -1,0 +1,7 @@
+Step  16
+
+Following the same pattern, assign 
+your #add-entry element to addEntryButton, your #clear 
+element to clearButton, and your #output element 
+to output.
+ 
