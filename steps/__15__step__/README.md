@@ -17,6 +17,18 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  15</h3>
+
+<section>
+<p>Get your <code>#budget</code> element and assign it to <code>budgetNumberInput</code>, and your <code>#entry-dropdown</code> element and assign it to <code>entryDropdown</code>.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/JS__Validation_by_Building_a_Calorie_Counter__freeCodeCamp/blob/main/images/previews/preview_step15.png" alt="preview_step15">
   
