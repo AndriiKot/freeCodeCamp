@@ -17,6 +17,24 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  17</h3>
+
+<section>
+<p>In programming, prefixing a variable with <code>is</code> or <code>has</code> is a common practice to signify that the variable represents a boolean value.</p>
+<p>Here are a few examples:</p>
+<details class="code-details" open=""><summary class="code-details-summary">Example Code</summary><pre class="language-js" tabindex="0" role="region" aria-label="JavaScript code example"><code class="language-js"><span class="token keyword">let</span> isRunning <span class="token operator">=</span> <span class="token boolean">true</span><span class="token punctuation">;</span>
+<span class="token keyword">let</span> hasCompleted <span class="token operator">=</span> <span class="token boolean">false</span><span class="token punctuation">;</span>
+</code></pre></details>
+<p>Declare a variable named <code>isError</code> using <code>let</code> and initialize it with <code>false</code>, allowing for its reassignment later.</p>
+<p>Later on in the project, you will update the value of <code>isError</code> if the user provides an invalid input.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/JS__Validation_by_Building_a_Calorie_Counter__freeCodeCamp/blob/main/images/previews/preview_step17.png" alt="preview_step17">
   
