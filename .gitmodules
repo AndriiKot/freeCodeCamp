@@ -1,5 +1,5 @@
 [submodule "automation/ManagerREADMES"]
     path = automation/ManagerREADMES
     url = https://github.com/AndriiKot/Manager_Projects__freeCodeCamp.git
-    branch = developManagerREADMEupdate
+    branch = developParseFreeCodeCamp
 
