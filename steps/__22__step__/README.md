@@ -17,6 +17,22 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  22</h3>
+
+<section>
+<p>Your current pattern won't work just yet. <code>/+-\s/</code> looks for <code>+</code>, <code>-</code>, and a space <em>in order</em>. This would match <code>+- hello</code> but would not match <code>+hello</code>.</p>
+<p>To tell the pattern to match each of these characters individually, you need to turn them into a character class. This is done by wrapping the characters you want to match in brackets. For example, this pattern will match the characters <code>h</code>, <code>e</code>, <code>l</code>, or <code>o</code>:</p>
+<details class="code-details" open=""><summary class="code-details-summary">Example Code</summary><pre class="language-js" tabindex="0" role="region" aria-label="JavaScript code example"><code class="language-js"><span class="token keyword">const</span> regex <span class="token operator">=</span> <span class="token regex"><span class="token regex-delimiter">/</span><span class="token regex-source language-regex">[helo]</span><span class="token regex-delimiter">/</span></span><span class="token punctuation">;</span>
+</code></pre></details>
+<p>Turn your <code>+-\s</code> pattern into a character class. Note that you no longer need to escape the <code>+</code> character, because you are using a character class.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/JS__Validation_by_Building_a_Calorie_Counter__freeCodeCamp/blob/main/images/previews/preview_step22.png" alt="preview_step22">
   

@@ -25,14 +25,16 @@
        <h3>Step  18</h3>
 
 <section>
-<p>When the user inputs their daily calorie budget, the input field will only accept numerical values. However, if a number is entered with a <code>+</code> or <code>-</code> sign, you'll need to remove those characters.</p>
-<p>Start by declaring a <code>cleanInputString</code> function that takes a <code>str</code> parameter.</p>
-<p><em>NOTE</em>: Values from an HTML <code>input</code> field are received as strings in JavaScript. You'll need to convert these strings into numbers before performing any calculations. Converting string values into numbers will be covered in a future step.</p>
+<p>To match specific characters in a string, you can use Regular Expressions or "regex" for short.</p>
+<p>Regex in JavaScript is indicated by a pattern wrapped in forward slashes. The following example will match the string literal <code>"hello"</code>:</p>
+<details class="code-details" open=""><summary class="code-details-summary">Example Code</summary><pre class="language-js" tabindex="0" role="region" aria-label="JavaScript code example"><code class="language-js"><span class="token keyword">const</span> regex <span class="token operator">=</span> <span class="token regex"><span class="token regex-delimiter">/</span><span class="token regex-source language-regex">hello</span><span class="token regex-delimiter">/</span></span><span class="token punctuation">;</span>
+</code></pre></details>
+<p>Declare a <code>regex</code> variable and assign it the value from the example above. In future steps, you will update this regex pattern to match specific characters needed for the calorie counter.</p>
 </section>
 </details>
 
 <h4>preview</h4>
-    <img src="https://github.com/AndriiKot/JS__Validation_by_Building_a_Calorie_Counter__freeCodeCamp/blob/main/images/previews/preview_step18.png" alt="preview_step18">
+    <img src="https://github.com/AndriiKot/JS__Validation_by_Building_a_Calorie_Counter__freeCodeCamp/blob/main/images/previews/preview_step19.png" alt="preview_step19">
   
 
 [back to top](#top)
