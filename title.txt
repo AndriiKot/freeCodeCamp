@@ -1,6 +1,0 @@
-
-To match specific characters in a string, you can use Regular Expressions or "regex" for short.
-Regex in JavaScript is indicated by a pattern wrapped in forward slashes. The following example will match the string literal "hello":
-Example Codeconst regex = /hello/;
-
-Declare a regex variable and assign it the value from the example above. In future steps, you will update this regex pattern to match specific characters needed for the calorie counter.
