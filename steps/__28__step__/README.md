@@ -17,6 +17,19 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  28</h3>
+
+<section>
+<p>In HTML, number inputs allow for exponential notation (such as <code>1e10</code>). You need to filter those out.</p>
+<p>Start by creating a function called <code>isInvalidInput</code> – it should take a single <code>str</code> parameter.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/JS__Validation_by_Building_a_Calorie_Counter__freeCodeCamp/blob/main/images/previews/preview_step28.png" alt="preview_step28">
   
