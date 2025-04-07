@@ -17,6 +17,23 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  24</h3>
+
+<section>
+<p>JavaScript provides a <code>.replace()</code> method that enables you to replace characters in a string with another string. This method accepts two arguments. The first argument is the character sequence to be replaced, which can be either a string or a regex pattern. The second argument is the string that replaces the matched sequence.</p>
+<p>Since strings are immutable, the <code>replace</code> method returns a new string with the replaced characters.</p>
+<p>In this example, the <code>replace</code> method is used to replace all instances of the letter <code>l</code> with the number <code>1</code> in the string <code>hello</code>.</p>
+<details class="code-details" open=""><summary class="code-details-summary">Example Code</summary><pre class="language-js" tabindex="0" role="region" aria-label="JavaScript code example"><code class="language-js"><span class="token string">"hello"</span><span class="token punctuation">.</span><span class="token function">replace</span><span class="token punctuation">(</span><span class="token regex"><span class="token regex-delimiter">/</span><span class="token regex-source language-regex">l</span><span class="token regex-delimiter">/</span><span class="token regex-flags">g</span></span><span class="token punctuation">,</span> <span class="token string">"1"</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</code></pre></details>
+<p>Use your <code>regex</code> to replace all instances of <code>+</code>, <code>-</code>, and a space in <code>str</code> with an empty string. Return this value.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/JS__Validation_by_Building_a_Calorie_Counter__freeCodeCamp/blob/main/images/previews/preview_step23.png" alt="preview_step23">
   
