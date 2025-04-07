@@ -17,6 +17,19 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  25</h3>
+
+<section>
+<p>Now it is time to test out your <code>cleanInputString</code> function.</p>
+<p>Inside your <code>cleanInputString</code> function, add a <code>console.log()</code> statement with two arguments. The first argument should be the string <code>"original string: "</code> and the second argument should be the <code>str</code> parameter.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/JS__Validation_by_Building_a_Calorie_Counter__freeCodeCamp/blob/main/images/previews/preview_step23.png" alt="preview_step23">
   
