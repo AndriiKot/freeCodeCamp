@@ -17,6 +17,19 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  26</h3>
+
+<section>
+<p>To see the results from the <code>cleanInputString</code> function, you will need to add a <code>console.log()</code> statement. Inside that console statement, call the <code>cleanInputString</code> function with the string value of <code>"+-99"</code> as an argument.</p>
+<p>Open up the console and you should see the original string followed by the cleaned string value with the <code>+-</code> removed.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/JS__Validation_by_Building_a_Calorie_Counter__freeCodeCamp/blob/main/images/previews/preview_step26.png" alt="preview_step26">
   
