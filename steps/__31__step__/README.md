@@ -17,6 +17,19 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  31</h3>
+
+<section>
+<p>Number inputs only allow the <code>e</code> to occur between two digits. To match any number, you can use the character class <code>[0-9]</code>. This will match any digit between <code>0</code> and <code>9</code>.</p>
+<p>Add this character class before and after <code>e</code> in your pattern.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/JS__Validation_by_Building_a_Calorie_Counter__freeCodeCamp/blob/main/images/previews/preview_step31.png" alt="preview_step31">
   
