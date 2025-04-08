@@ -17,6 +17,23 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  34</h3>
+
+<section>
+<p>Strings have a <dfn>.match()</dfn> method, which takes a regex argument. <code>.match()</code> will return an array of match results – containing either the first match, or all matches if the global flag is used.</p>
+<details class="code-details" open=""><summary class="code-details-summary">Example Code</summary><pre class="language-js" tabindex="0" role="region" aria-label="JavaScript code example"><code class="language-js"><span class="token keyword">const</span> str <span class="token operator">=</span> <span class="token string">'example string'</span><span class="token punctuation">;</span>
+<span class="token keyword">const</span> regex <span class="token operator">=</span> <span class="token regex"><span class="token regex-delimiter">/</span><span class="token regex-source language-regex">example</span><span class="token regex-delimiter">/</span></span><span class="token punctuation">;</span>
+<span class="token keyword">const</span> result <span class="token operator">=</span> str<span class="token punctuation">.</span><span class="token function">match</span><span class="token punctuation">(</span>regex<span class="token punctuation">)</span><span class="token punctuation">;</span> <span class="token comment">// Returns ['example']</span>
+</code></pre></details>
+<p>Return the result of calling the <code>.match()</code> method on <code>str</code> and passing your <code>regex</code> variable as the argument. You'll use this match result later on.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/JS__Validation_by_Building_a_Calorie_Counter__freeCodeCamp/blob/main/images/previews/preview_step34.png" alt="preview_step34">
   
