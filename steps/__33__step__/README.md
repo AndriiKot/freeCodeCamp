@@ -17,6 +17,18 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  33</h3>
+
+<section>
+<p>There is a shorthand character class to match any digit: <code>\d</code>. Replace your <code>[0-9]</code> character classes with this shorthand.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/JS__Validation_by_Building_a_Calorie_Counter__freeCodeCamp/blob/main/images/previews/preview_step33.png" alt="preview_step33">
   
