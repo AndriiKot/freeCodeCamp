@@ -17,6 +17,22 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  30</h3>
+
+<section>
+<p>The <code>e</code> in a number input can also be an uppercase <code>E</code>. Regex has a flag for this, however – the <code>i</code> flag, which stands for "insensitive".</p>
+<details class="code-details" open=""><summary class="code-details-summary">Example Code</summary><pre class="language-js" tabindex="0" role="region" aria-label="JavaScript code example"><code class="language-js"><span class="token regex"><span class="token regex-delimiter">/</span><span class="token regex-source language-regex">Hello</span><span class="token regex-delimiter">/</span><span class="token regex-flags">i</span></span>
+</code></pre></details>
+<p>The regex above would match <code>hello</code>, <code>Hello</code>, <code>HELLO</code>, and even <code>hElLo</code> because of the <code>i</code> flag. This flag makes your pattern case-insensitive.</p>
+<p>Add the <code>i</code> flag to your regex pattern.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/JS__Validation_by_Building_a_Calorie_Counter__freeCodeCamp/blob/main/images/previews/preview_step30.png" alt="preview_step30">
   
