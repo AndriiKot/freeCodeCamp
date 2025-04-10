@@ -17,6 +17,19 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  39</h3>
+
+<section>
+<p>Now that you have finished testing the value of <code>entryDropdown.value</code>, you can remove the <code>console.log</code> statement.</p>
+<p>Your next step is to allow users to add entries to the calorie counter. Declare an empty function <code>addEntry</code>. This function should not take any parameters.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/JS__Validation_by_Building_a_Calorie_Counter__freeCodeCamp/blob/main/images/previews/preview_step39.png" alt="preview_step39">
   
