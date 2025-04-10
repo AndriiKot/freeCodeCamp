@@ -17,6 +17,20 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  37</h3>
+
+<section>
+<p>When you open the console, you should see the result of <code>null</code>. The <code>match</code> method returns <code>null</code> when no match is found. In this case, the <code>isInvalidInput</code> function should return <code>null</code> when the input is a valid number without any scientific notation.</p>
+<p><code>null</code> in JavaScript is a special primitive that represents the intentional absence of a value. In a boolean context, <code>null</code> is considered falsy which evaluates to <code>false</code> in a conditional statement.</p>
+<p>Now that you have finished testing your <code>isInvalidInput</code> function, you can remove the <code>console.log</code> statement.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/JS__Validation_by_Building_a_Calorie_Counter__freeCodeCamp/blob/main/images/previews/preview_step37.png" alt="preview_step37">
   
