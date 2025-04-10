@@ -17,6 +17,20 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  35</h3>
+
+<section>
+<p>Now it is time to test your <code>isInvalidInput</code> function. For this test, you want to check if the function can detect scientific notation like <code>1e3</code> or <code>10e2</code>. While this is a valid way to represent numbers, it is not a valid input for your calorie counter project.</p>
+<p>Below your <code>isInvalidInput</code> function, add a console statement. Inside that console statement, call the <code>isInvalidInput</code> function with an argument of <code>"1e3"</code>.</p>
+<p>Open up the console to see the result. In the next step, you will learn more about what that result means.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/JS__Validation_by_Building_a_Calorie_Counter__freeCodeCamp/blob/main/images/previews/preview_step35.png" alt="preview_step35">
   
