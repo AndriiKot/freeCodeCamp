@@ -17,6 +17,21 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  38</h3>
+
+<section>
+<p>Now you need to retrieve the value of <code>entryDropdown.value</code> to get the currently selected option from the dropdown.</p>
+<p>Print <code>entryDropdown.value</code> to the console to see its value.</p>
+<p>Since <code>entryDropdown.value</code> is in a static context (outside of an event listener), it only shows the value at the moment the code runs. This means it won't automatically update as the user interacts with the dropdown.</p>
+<p>It will capture the initial value (in this case, <code>"breakfast"</code>) and won't reflect any changes the user makes afterward.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/JS__Validation_by_Building_a_Calorie_Counter__freeCodeCamp/blob/main/images/previews/preview_step38.png" alt="preview_step38">
   
