@@ -17,6 +17,30 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  36</h3>
+
+<section>
+<p>When you open the console, you should see this result:</p>
+<details class="code-details" open=""><summary class="code-details-summary">Example Code</summary><pre class="language-js" tabindex="0" role="region" aria-label="JavaScript code example"><code class="language-js"><span class="token punctuation">[</span> <span class="token string">'1e3'</span><span class="token punctuation">,</span> <span class="token literal-property property">index</span><span class="token operator">:</span> <span class="token number">0</span><span class="token punctuation">,</span> <span class="token literal-property property">input</span><span class="token operator">:</span> <span class="token string">'1e3'</span><span class="token punctuation">,</span> <span class="token literal-property property">groups</span><span class="token operator">:</span> <span class="token keyword">undefined</span> <span class="token punctuation">]</span>
+</code></pre></details>
+<p>The <code>match</code> method returns an array with any matches found in the string.</p>
+<p>Here is a complete breakdown of that information:</p>
+<ul>
+<li><code>"1e3"</code> is the matched value against the <code>/\d+e\d+/i</code> regex.</li>
+<li><code>index: 0</code> is the index of the matched value in the string.</li>
+<li><code>input: '1e3'</code> is the original string that was matched.</li>
+<li><code>groups: undefined</code> are the matched groups, which are not used in this case. You will learn more about groups in a later project.</li>
+</ul>
+<p>Now it is time to test for a valid input. Update your console statement to the following: <code>console.log(isInvalidInput("10"))</code>.</p>
+<p>Open up the console to see the result. You will learn more about what this result means in the next step.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/JS__Validation_by_Building_a_Calorie_Counter__freeCodeCamp/blob/main/images/previews/preview_step36.png" alt="preview_step36">
   
