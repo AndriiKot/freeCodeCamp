@@ -17,6 +17,25 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  42</h3>
+
+<section>
+<p>JavaScript has a feature called <dfn>template literals</dfn>, which allow you to interpolate variables directly within a string. Template literals are denoted with backticks <code>``</code>, as opposed to single or double quotes. Variables can be passed in to a template literal by surrounding the variable with <code>${}</code> – the value of the variable will be inserted into the string.</p>
+<p>For example:</p>
+<details class="code-details" open=""><summary class="code-details-summary">Example Code</summary><pre class="language-js" tabindex="0" role="region" aria-label="JavaScript code example"><code class="language-js"><span class="token keyword">const</span> name <span class="token operator">=</span> <span class="token string">"Naomi"</span><span class="token punctuation">;</span>
+<span class="token keyword">const</span> templateLiteral <span class="token operator">=</span> <span class="token template-string"><span class="token template-punctuation string">`</span><span class="token string">Hello, my name is </span><span class="token interpolation"><span class="token interpolation-punctuation punctuation">${</span>name<span class="token interpolation-punctuation punctuation">}</span></span><span class="token string">~!</span><span class="token template-punctuation string">`</span></span><span class="token punctuation">;</span>
+console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span>templateLiteral<span class="token punctuation">)</span><span class="token punctuation">;</span>
+</code></pre></details>
+<p>The console will show the string "Hello, my name is Naomi~!".</p>
+<p>Replace your concatenated string in the <code>querySelector</code> with a template literal – be sure to keep the space between your <code>targetId</code> variable and <code>.input-container</code>.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/JS__Validation_by_Building_a_Calorie_Counter__freeCodeCamp/blob/main/images/previews/preview_step39.png" alt="preview_step39">
   
