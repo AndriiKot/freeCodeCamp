@@ -17,6 +17,18 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  43</h3>
+
+<section>
+<p>Thanks to template literals, you actually don't need the <code>targetId</code> variable at all. Remove that variable, and update your template literal to replace <code>targetId</code> with <code>entryDropdown.value</code> – remember to add <code>#</code> before that, in the string.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/JS__Validation_by_Building_a_Calorie_Counter__freeCodeCamp/blob/main/images/previews/preview_step39.png" alt="preview_step39">
   
