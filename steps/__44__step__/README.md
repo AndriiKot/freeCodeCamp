@@ -17,6 +17,20 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  44</h3>
+
+<section>
+<p>You will want to number the entries a user adds. To get all of the number inputs, you can use the <dfn>querySelectorAll()</dfn> method.</p>
+<p>The <code>querySelectorAll()</code> method returns a <code>NodeList</code> of all the elements that match the selector. A <code>NodeList</code> is an array-like object, so you can access the elements using bracket notation.</p>
+<p>Declare an <code>entryNumber</code> variable and give it the value of <code>targetInputContainer.querySelectorAll()</code>. You do not need to pass an argument to the query selector yet.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/JS__Validation_by_Building_a_Calorie_Counter__freeCodeCamp/blob/main/images/previews/preview_step39.png" alt="preview_step39">
   
