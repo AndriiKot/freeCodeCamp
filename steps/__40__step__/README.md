@@ -17,6 +17,20 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  40</h3>
+
+<section>
+<p>You'll need to know which category the entry goes in. Thankfully, you added a dropdown for the user to select a category.</p>
+<p>Remember that you queried that dropdown earlier in your JavaScript and assigned it to the <code>entryDropdown</code> variable. You can use the <dfn>value</dfn> property to get the value of the selected option.</p>
+<p>Use concatenation to add a <code>#</code> to the beginning of the <code>value</code> property of <code>entryDropdown</code>, and assign that result to a <code>targetId</code> variable.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/JS__Validation_by_Building_a_Calorie_Counter__freeCodeCamp/blob/main/images/previews/preview_step39.png" alt="preview_step39">
   
