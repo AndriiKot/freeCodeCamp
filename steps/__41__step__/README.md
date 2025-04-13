@@ -17,6 +17,18 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  41</h3>
+
+<section>
+<p>Now you need to target the <code>.input-container</code> element within the element that has your <code>targetId</code>. Declare a new <code>targetInputContainer</code> variable, and assign it the value of <code>document.querySelector()</code>. Use concatenation to separate <code>targetId</code> and <code>'.input-container'</code> with a space, and pass that string to <code>querySelector()</code>.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/JS__Validation_by_Building_a_Calorie_Counter__freeCodeCamp/blob/main/images/previews/preview_step39.png" alt="preview_step39">
   
