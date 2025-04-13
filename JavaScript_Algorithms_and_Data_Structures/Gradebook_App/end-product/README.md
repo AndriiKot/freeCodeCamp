@@ -245,8 +245,3 @@ function studentMsg(totalScores, studentScore) {
 }
 ```
 #### - [back to top](#gradebook-App)
-
-
-
-
-

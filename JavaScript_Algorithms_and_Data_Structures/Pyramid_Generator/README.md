@@ -11,6 +11,26 @@ own Pyramid Generator. You'll learn how to work
 with arrays, strings, functions, loops,
 if/else statements, and more.
 
+### technologies
+
+<table>
+  <thead>
+    <tr>
+      <th height=33 width=91>JavaScript</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td height=33 width=91>
+        <a href=https://ecma-international.org/publications-and-standards/standards/>
+          <img src=https://github.com/AndriiKot/JS__Pyramid_Generator__FreeCodeCamp/blob/main/icons/javascript-1.svg alt=JavaScript>
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
 ### Result
 
 ```md
