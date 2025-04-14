@@ -17,6 +17,19 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  54</h3>
+
+<section>
+<p>Try adding a couple of entries to the <code>Breakfast</code> category, and you may notice some bugs! The first thing we need to fix is the entry counts – the first entry should have a count of <code>1</code>, not <code>0</code>.</p>
+<p>This bug occurs because you are querying for <code>input[type="text"]</code> elements <em>before</em> adding the new entry to the page. To fix this, update your <code>entryNumber</code> variable to be the value of the <code>length</code> of the query plus <code>1</code>. Add this on your declaration line, not in your template strings.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/JS__Validation_by_Building_a_Calorie_Counter__freeCodeCamp/blob/main/images/previews/preview_step54.png" alt="preview_step54">
   
