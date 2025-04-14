@@ -17,6 +17,30 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  53</h3>
+
+<section>
+<p>In the Role Playing Game project, you learned how to set a button's behavior by editing its <code>onclick</code> property. You can also edit an element's behavior by adding an event listener.</p>
+<p>The following example uses the <code>addEventListener</code> method to add a click event to a button. When the button is clicked, the <code>printName</code> function is called.</p>
+<details class="code-details" open=""><summary class="code-details-summary">Example Code</summary><pre class="language-html" tabindex="0" role="region" aria-label="HTML code example"><code class="language-html"><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>button</span> <span class="token attr-name">class</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>btn<span class="token punctuation">"</span></span><span class="token punctuation">&gt;</span></span>Print name<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>button</span><span class="token punctuation">&gt;</span></span>
+</code></pre></details>
+<details class="code-details" open=""><summary class="code-details-summary">Example Code</summary><pre class="language-js" tabindex="0" role="region" aria-label="JavaScript code example"><code class="language-js"><span class="token keyword">const</span> button <span class="token operator">=</span> document<span class="token punctuation">.</span><span class="token function">querySelector</span><span class="token punctuation">(</span><span class="token string">'.btn'</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+<span class="token keyword">function</span> <span class="token function">printName</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
+  console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span><span class="token string">"Jessica"</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+<span class="token punctuation">}</span>
+button<span class="token punctuation">.</span><span class="token function">addEventListener</span><span class="token punctuation">(</span><span class="token string">'click'</span><span class="token punctuation">,</span> printName<span class="token punctuation">)</span><span class="token punctuation">;</span>
+</code></pre></details>
+<p>The <code>addEventListener</code> method takes two arguments. The first is the event to listen to. (Ex. <code>'click'</code>) The second is the callback function, or the function that runs when the event is triggered.</p>
+<p>Call the <code>.addEventListener()</code> method on the <code>addEntryButton</code>. Pass in the string <code>"click"</code> for the first argument and the <code>addEntry</code> function for the second argument.</p>
+<p>Note that you should not <em>call</em> <code>addEntry</code>, but pass the variable (or <dfn>function reference</dfn>) directly.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/JS__Validation_by_Building_a_Calorie_Counter__freeCodeCamp/blob/main/images/previews/preview_step53.png" alt="preview_step53">
   
