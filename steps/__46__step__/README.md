@@ -17,6 +17,18 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  46</h3>
+
+<section>
+<p>Now you need to build your dynamic HTML string to add to the webpage. Declare a new <code>HTMLString</code> variable, and assign it an empty template literal string.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/JS__Validation_by_Building_a_Calorie_Counter__freeCodeCamp/blob/main/images/previews/preview_step39.png" alt="preview_step39">
   
