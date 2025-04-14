@@ -17,6 +17,18 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  48</h3>
+
+<section>
+<p>Give your <code>label</code> element a <code>for</code> attribute with the value <code>X-#-name</code>, where <code>X</code> is the <code>value</code> of the <code>entryDropdown</code> element and <code>#</code> is the value of <code>entryNumber</code>. Remember that HTML attributes should be wrapped in double quotes.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/JS__Validation_by_Building_a_Calorie_Counter__freeCodeCamp/blob/main/images/previews/preview_step39.png" alt="preview_step39">
   
