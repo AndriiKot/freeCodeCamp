@@ -17,6 +17,20 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  45</h3>
+
+<section>
+<p>Each entry will have a text input for the entry's name, and a number input for the calories. To get a count of the number of entries, you can query by text inputs.</p>
+<p>Pass the string <code>input[type="text"]</code> to the <code>querySelectorAll()</code> method. Remember that if you use single quotes for your string, you must also use double quotes within it (or vice-versa).</p>
+<p>This will return a <code>NodeList</code> of all the text inputs in the form. You can then access the <code>length</code> property of the <code>NodeList</code> to get the number of entries. Do this on the same line.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/JS__Validation_by_Building_a_Calorie_Counter__freeCodeCamp/blob/main/images/previews/preview_step39.png" alt="preview_step39">
   
