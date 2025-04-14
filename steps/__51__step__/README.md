@@ -17,6 +17,18 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  51</h3>
+
+<section>
+<p>Finally, on a new line after your second <code>label</code>, create another <code>input</code> element. Give this one a <code>type</code> attribute set to <code>number</code>, a <code>min</code> attribute set to <code>0</code> (to ensure negative calories cannot be added), a <code>placeholder</code> attribute set to <code>Calories</code>, and an <code>id</code> attribute that matches the <code>for</code> attribute of your second <code>label</code> element.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/JS__Validation_by_Building_a_Calorie_Counter__freeCodeCamp/blob/main/images/previews/preview_step39.png" alt="preview_step39">
   
