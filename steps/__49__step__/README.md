@@ -17,6 +17,18 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  49</h3>
+
+<section>
+<p>After your <code>label</code> element, and on a new line in your template string, create an <code>input</code> element. Give it a <code>type</code> attribute set to <code>text</code>, a <code>placeholder</code> attribute set to <code>Name</code>, and an <code>id</code> attribute that matches the <code>for</code> attribute of your <code>label</code> element.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/JS__Validation_by_Building_a_Calorie_Counter__freeCodeCamp/blob/main/images/previews/preview_step39.png" alt="preview_step39">
   
