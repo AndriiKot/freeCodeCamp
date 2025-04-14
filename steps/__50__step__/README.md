@@ -17,6 +17,18 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  50</h3>
+
+<section>
+<p>Create another <code>label</code> element (on a new line) at the end of your <code>HTMLString</code>. This <code>label</code> should have the text <code>Entry # Calories</code>, using your template literal syntax to replace <code>#</code> with the value of <code>entryNumber</code>, and the <code>for</code> attribute set to <code>X-#-calories</code>, where <code>X</code> is the <code>value</code> of <code>entryDropdown</code> and <code>#</code> is the value of <code>entryNumber</code>.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/JS__Validation_by_Building_a_Calorie_Counter__freeCodeCamp/blob/main/images/previews/preview_step39.png" alt="preview_step39">
   
