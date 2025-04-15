@@ -1,5 +1,5 @@
 # freeCodeCamp
-## Points: 1216
+## Points: 1473
 <div class="logos">
   <span class="HTML5">
     <a href="https://html.spec.whatwg.org/multipage/">
