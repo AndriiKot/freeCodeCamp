@@ -17,6 +17,18 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  62</h3>
+
+<section>
+<p>You also need to confirm the input is valid. Declare an <code>invalidInputMatch</code> variable, and assign it the result of calling your <code>isInvalidInput</code> function with <code>currVal</code> as the argument.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/JS__Validation_by_Building_a_Calorie_Counter__freeCodeCamp/blob/main/images/previews/preview_step58.png" alt="preview_step58">
   
