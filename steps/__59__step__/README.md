@@ -17,6 +17,25 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  59</h3>
+
+<section>
+<p>The <code>list</code> parameter is going to be the result of a query selector, which will return a <code>NodeList</code>. A <code>NodeList</code> is a list of elements like an array. It contains the elements that match the query selector. You will need to loop through these elements in the list.</p>
+<p>In previous steps, you learned how to loop through an array using a <code>for</code> loop. You can also use a <dfn>for...of</dfn> loop to loop through an array and a <code>NodeList</code>.</p>
+<p>A <code>for...of</code> loop is used to iterate over elements in an iterable object like an array. The variable declared in the loop represents the current element being iterated over.</p>
+<details class="code-details" open=""><summary class="code-details-summary">Example Code</summary><pre class="language-js" tabindex="0" role="region" aria-label="JavaScript code example"><code class="language-js"><span class="token keyword">for</span> <span class="token punctuation">(</span><span class="token keyword">const</span> element <span class="token keyword">of</span> elementArray<span class="token punctuation">)</span> <span class="token punctuation">{</span>
+  console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span>element<span class="token punctuation">)</span><span class="token punctuation">;</span>
+<span class="token punctuation">}</span>
+</code></pre></details>
+<p>Create a <code>for...of</code> loop that loops through the <code>list</code>. For the loop's variable name, use <code>const</code> to declare a variable called <code>item</code>.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/JS__Validation_by_Building_a_Calorie_Counter__freeCodeCamp/blob/main/images/previews/preview_step58.png" alt="preview_step58">
   
