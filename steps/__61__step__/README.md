@@ -17,6 +17,19 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  61</h3>
+
+<section>
+<p>Remember that you wrote a function earlier to clean the user's input? You'll need to use that function here.</p>
+<p>Update your <code>currVal</code> declaration to be the result of calling <code>cleanInputString</code> with <code>item.value</code>.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/JS__Validation_by_Building_a_Calorie_Counter__freeCodeCamp/blob/main/images/previews/preview_step58.png" alt="preview_step58">
   
