@@ -17,6 +17,19 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  60</h3>
+
+<section>
+<p>The <code>NodeList</code> values you will pass to <code>list</code> will consist of <code>input</code> elements. So you will want to look at the <code>value</code> attribute of each element.</p>
+<p>Assign <code>item.value</code> to a <code>const</code> variable called <code>currVal</code>.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/JS__Validation_by_Building_a_Calorie_Counter__freeCodeCamp/blob/main/images/previews/preview_step58.png" alt="preview_step58">
   
