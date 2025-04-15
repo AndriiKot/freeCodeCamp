@@ -17,6 +17,20 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  57</h3>
+
+<section>
+<p>Great! Now you can add entries without losing your previous inputs.</p>
+<p>Your next step is to write a function that will get the calorie counts from the user's entries.</p>
+<p>Declare a <code>getCaloriesFromInputs</code> function, and give it a parameter called <code>list</code>.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/JS__Validation_by_Building_a_Calorie_Counter__freeCodeCamp/blob/main/images/previews/preview_step55.png" alt="preview_step55">
   
