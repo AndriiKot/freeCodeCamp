@@ -17,6 +17,25 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  63</h3>
+
+<section>
+<p>Remember that your <code>isInvalidInput</code> function returns <code>String.match</code>, which is an array of matches or <code>null</code> if no matches are found.</p>
+<p>In JavaScript, values can either be <dfn>truthy</dfn> or <dfn>falsy</dfn>. A value is truthy if it evaluates to <code>true</code> when converted to a Boolean. A value is falsy if it evaluates to <code>false</code> when converted to a Boolean. <code>null</code> is an example of a falsy value.</p>
+<p>You need to check if <code>invalidInputMatch</code> is truthy – you can do this by passing the variable directly to your <code>if</code> condition (without a comparison operator). Here's an example of checking the truthiness of <code>helloWorld</code>.</p>
+<details class="code-details" open=""><summary class="code-details-summary">Example Code</summary><pre class="language-js" tabindex="0" role="region" aria-label="JavaScript code example"><code class="language-js"><span class="token keyword">if</span> <span class="token punctuation">(</span>helloWorld<span class="token punctuation">)</span> <span class="token punctuation">{</span>
+
+<span class="token punctuation">}</span>
+</code></pre></details>
+<p>Add an <code>if</code> statement that checks if <code>invalidInputMatch</code> is truthy.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/JS__Validation_by_Building_a_Calorie_Counter__freeCodeCamp/blob/main/images/previews/preview_step58.png" alt="preview_step58">
   
