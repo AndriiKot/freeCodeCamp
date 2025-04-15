@@ -13,7 +13,7 @@ const cleanInputString = (str) => {
   return str.replace(regex, "");
 };
 
-const  = (str) => {
+const isInvalidInput = (str) => {
   const regex = /\d+e\d+/i;
   return str.match(regex);
 };

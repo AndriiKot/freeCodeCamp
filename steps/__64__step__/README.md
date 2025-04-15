@@ -17,6 +17,19 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  64</h3>
+
+<section>
+<p>Browsers have a built in <code>alert()</code> function, which you can use to display a pop-up message to the user. The message to display is passed as the argument to the <code>alert()</code> function.</p>
+<p>Using a template literal, in your <code>if</code> block, call the <code>alert()</code> function to tell the user <code>"Invalid Input: "</code>, followed by the first value in the <code>invalidInputMatch</code> array.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/JS__Validation_by_Building_a_Calorie_Counter__freeCodeCamp/blob/main/images/previews/preview_step58.png" alt="preview_step58">
   
