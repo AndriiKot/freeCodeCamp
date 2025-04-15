@@ -17,6 +17,19 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  55</h3>
+
+<section>
+<p>Your other bug occurs if you add a <code>Breakfast</code> entry, fill it in, then add a second <code>Breakfast</code> entry. You'll see that the values you added disappeared.</p>
+<p>This is because you are updating <code>innerHTML</code> directly, which does not preserve your input content. Change your <code>innerHTML</code> assignment to use the <code>insertAdjacentHTML()</code> method of <code>targetInputContainer</code> instead. Do not pass any arguments yet.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/JS__Validation_by_Building_a_Calorie_Counter__freeCodeCamp/blob/main/images/previews/preview_step55.png" alt="preview_step55">
   
