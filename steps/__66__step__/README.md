@@ -17,6 +17,24 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  66</h3>
+
+<section>
+<p>Remember that <code>return</code> ends the execution of a function. After your <code>if</code> block, you need to handle the logic for when the input is valid. Because your <code>if</code> statement returns a value, you do not need an <code>else</code> statement.</p>
+<p>Use the addition assignment operator to add <code>currVal</code> to your <code>calories</code> total. You'll need to use the <code>Number</code> constructor to convert <code>currVal</code> to a number.</p>
+<p>The <code>Number</code> constructor is a function that converts a value to a number. If the value cannot be converted, it returns <code>NaN</code> which stands for "Not a Number".</p>
+<p>Here is an example:</p>
+<details class="code-details" open=""><summary class="code-details-summary">Example Code</summary><pre class="language-js" tabindex="0" role="region" aria-label="JavaScript code example"><code class="language-js"><span class="token function">Number</span><span class="token punctuation">(</span><span class="token string">'10'</span><span class="token punctuation">)</span><span class="token punctuation">;</span> <span class="token comment">// returns the number 10</span>
+<span class="token function">Number</span><span class="token punctuation">(</span><span class="token string">'abc'</span><span class="token punctuation">)</span><span class="token punctuation">;</span> <span class="token comment">// returns NaN</span>
+</code></pre></details>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/JS__Validation_by_Building_a_Calorie_Counter__freeCodeCamp/blob/main/images/previews/preview_step58.png" alt="preview_step58">
   
