@@ -17,6 +17,19 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  69</h3>
+
+<section>
+<p>You will be attaching this function to the <code>submit</code> event of the form. The <code>submit</code> event is triggered when the form is submitted. The default action of the <code>submit</code> event is to reload the page. You need to prevent this default action using the <code>preventDefault()</code> method of your <code>e</code> parameter.</p>
+<p>Add a line to your <code>calculateCalories</code> function that calls the <code>preventDefault()</code> method on the <code>e</code> parameter. Then, reset your global error flag <code>isError</code> to <code>false</code>.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/JS__Validation_by_Building_a_Calorie_Counter__freeCodeCamp/blob/main/images/previews/preview_step58.png" alt="preview_step58">
   
