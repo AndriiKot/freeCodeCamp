@@ -17,6 +17,19 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  70</h3>
+
+<section>
+<p>Your function needs to get the values from the entries the user has added.</p>
+<p>Declare a <code>breakfastNumberInputs</code> variable, and give it the value of calling <code>document.querySelectorAll()</code> with the selector <code>#breakfast input[type='number']</code>. This will return any <code>number</code> inputs that are in the <code>#breakfast</code> element.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/JS__Validation_by_Building_a_Calorie_Counter__freeCodeCamp/blob/main/images/previews/preview_step58.png" alt="preview_step58">
   
