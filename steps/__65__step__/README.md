@@ -17,6 +17,19 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  65</h3>
+
+<section>
+<p>In programming, <code>null</code> is meant to represent the absence of a value. In this case, if the user enters an invalid input, you want to alert them and then return <code>null</code> to indicate that the function has failed.</p>
+<p>Still within your <code>if</code> block, set <code>isError</code> to <code>true</code> and return <code>null</code>.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/JS__Validation_by_Building_a_Calorie_Counter__freeCodeCamp/blob/main/images/previews/preview_step58.png" alt="preview_step58">
   
