@@ -17,6 +17,18 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  68</h3>
+
+<section>
+<p>Now it's time to start putting it all together. Declare an empty <code>calculateCalories</code> function, which takes a parameter named <code>e</code>. This function will be another event listener, so the first argument passed will be the browser event – <code>e</code> is a common name for this parameter.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/JS__Validation_by_Building_a_Calorie_Counter__freeCodeCamp/blob/main/images/previews/preview_step58.png" alt="preview_step58">
   
