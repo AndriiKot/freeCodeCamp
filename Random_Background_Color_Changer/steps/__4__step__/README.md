@@ -4,27 +4,22 @@
   <summary>
     <h4>Description of the task</h4>
   </summary>
-  <h3>Step 1</h3>
+  <h3>Step 4</h3>
   <p>
-    CamperBot is trying to build out a random background color changer. But they keep running into issues and need your help to debug the code
+      CamperBot is finished with building out the
+      getRandomIndex function and it is working as expected. But now they are running into this issue
+      when trying to create a reference to the <code>body</code> element in the DOM:
   </p>
   <p>
-    CamperBot has already added the HTML and CSS for the project. But they are confused as to why none of the styles and content is showing up on the page.
+      <code>Uncaught TypeError: document.queryselector is not a function</code>
   </p>
   <p>
-    When they open up the console they see this message:
-  </p>
-  <details>
-    <summary>
-      <h5>Example Code</h5>
-    </summary>
-    <code>SyntaxError: unknown: Unexpected token, expected "," (5:2)</code>
-  </details>
-  <p>
-    Syntax errors are thrown when the JavaScript engine encounters something it can't interpret. In this case, it looks like CamperBot has syntax errors in the <code>darkColorsArr</code> array.
+      A TypeError means that the code is trying to perform
+      an operation on a value that is not of the expected type.
   </p>
   <p>
-    Fix the syntax errors in the <code>darkColorsArr</code> array and you should see the content and styles show up on the page.
+      Fix the TypeError by updating the document.queryselector
+      method to the correct method name that selects an element from the DOM.
   </p>
 </details>
 
@@ -36,7 +31,7 @@ In this project, you will help CamperBot build a random background color changer
 
 #### preview
 
-![preview 'Random Background Color Changer step 1'](https://github.com/AndriiKot/JS__Random_Background_Color_Changer__freeCodeCamp/blob/main/preview/step1.png)
+![preview 'Random Background Color Changer step 4'](https://github.com/AndriiKot/JS__Random_Background_Color_Changer__freeCodeCamp/blob/main/preview/step4.png)
 
 | [index.html](#indexhtml) | [styles.css](#stylescss) | [script.js](#scriptjs) |
 | ------------------------ | ------------------------ | ---------------------- |
@@ -164,6 +159,14 @@ const darkColorsArr = [
   "#2C3E50",
   "#800020",
 ];
+
+function getRandomIndex() {
+  console.log(Math.floor(darkColorsArr.length * Math.random()));
+}
+
+getRandomIndex();
+
+const body = document.querySelector("body");
 ```
 
 [back to top](#top)

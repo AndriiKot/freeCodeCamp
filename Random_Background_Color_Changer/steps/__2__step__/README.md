@@ -4,27 +4,21 @@
   <summary>
     <h4>Description of the task</h4>
   </summary>
-  <h3>Step 1</h3>
+  <h3>Step 2</h3>
   <p>
-    CamperBot is trying to build out a random background color changer. But they keep running into issues and need your help to debug the code
-  </p>
-  <p>
-    CamperBot has already added the HTML and CSS for the project. But they are confused as to why none of the styles and content is showing up on the page.
-  </p>
-  <p>
-    When they open up the console they see this message:
+    Now, CamperBot is trying to create a function that will return a random index from the <code>darkColorsArr</code>. But they have run into the following error message:
   </p>
   <details>
     <summary>
       <h5>Example Code</h5>
     </summary>
-    <code>SyntaxError: unknown: Unexpected token, expected "," (5:2)</code>
+    <code>Uncaught ReferenceError: math is not defined</code>
   </details>
   <p>
-    Syntax errors are thrown when the JavaScript engine encounters something it can't interpret. In this case, it looks like CamperBot has syntax errors in the <code>darkColorsArr</code> array.
+    A <code>ReferenceError</code> is thrown when a non-existent variable is referenced. In this case, it looks like CamperBot is trying to use <code>math</code> but JavaScript doesn't have a <code>math</code> object.
   </p>
   <p>
-    Fix the syntax errors in the <code>darkColorsArr</code> array and you should see the content and styles show up on the page.
+    Fix CamperBot's error in the <code>math.random()</code> line and open up the console again.
   </p>
 </details>
 
@@ -36,7 +30,7 @@ In this project, you will help CamperBot build a random background color changer
 
 #### preview
 
-![preview 'Random Background Color Changer step 1'](https://github.com/AndriiKot/JS__Random_Background_Color_Changer__freeCodeCamp/blob/main/preview/step1.png)
+![preview 'Random Background Color Changer step 2'](https://github.com/AndriiKot/JS__Random_Background_Color_Changer__freeCodeCamp/blob/main/preview/step2.png)
 
 | [index.html](#indexhtml) | [styles.css](#stylescss) | [script.js](#scriptjs) |
 | ------------------------ | ------------------------ | ---------------------- |
@@ -164,6 +158,12 @@ const darkColorsArr = [
   "#2C3E50",
   "#800020",
 ];
+
+function getRandomIndex() {
+  console.log(darkColorsArr.length * Math.random())
+}
+
+getRandomIndex();
 ```
 
 [back to top](#top)

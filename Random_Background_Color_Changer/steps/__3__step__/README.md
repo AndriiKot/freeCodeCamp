@@ -4,27 +4,23 @@
   <summary>
     <h4>Description of the task</h4>
   </summary>
-  <h3>Step 1</h3>
+  <h3>Step 3</h3>
   <p>
-    CamperBot is trying to build out a random background color changer. But they keep running into issues and need your help to debug the code
+    Now that the <code>ReferenceError</code> is resolved, the console is displaying the correct results for a random number between <code>0</code> and <code>9</code>. But CamperBot was not expecting to see decimal numbers like these:
+  </p>
+      <details>
+          <summary>
+              <h5>Example Code</h5>
+          </summary>
+          <code>0.015882899879771095</code><br>
+          <code>2.114596286197641</code><br>
+          <code>6.040964780197666</code><br>
+      </details>
+  <p>
+      Update the <code>console</code> statement to print a whole number between <code>0</code> and <code>9</code>.
   </p>
   <p>
-    CamperBot has already added the HTML and CSS for the project. But they are confused as to why none of the styles and content is showing up on the page.
-  </p>
-  <p>
-    When they open up the console they see this message:
-  </p>
-  <details>
-    <summary>
-      <h5>Example Code</h5>
-    </summary>
-    <code>SyntaxError: unknown: Unexpected token, expected "," (5:2)</code>
-  </details>
-  <p>
-    Syntax errors are thrown when the JavaScript engine encounters something it can't interpret. In this case, it looks like CamperBot has syntax errors in the <code>darkColorsArr</code> array.
-  </p>
-  <p>
-    Fix the syntax errors in the <code>darkColorsArr</code> array and you should see the content and styles show up on the page.
+      Remember that you worked with a method in the Role Playing Game that rounds a number down to the nearest whole number.
   </p>
 </details>
 
@@ -36,7 +32,7 @@ In this project, you will help CamperBot build a random background color changer
 
 #### preview
 
-![preview 'Random Background Color Changer step 1'](https://github.com/AndriiKot/JS__Random_Background_Color_Changer__freeCodeCamp/blob/main/preview/step1.png)
+![preview 'Random Background Color Changer step 3'](https://github.com/AndriiKot/JS__Random_Background_Color_Changer__freeCodeCamp/blob/main/preview/step3.png)
 
 | [index.html](#indexhtml) | [styles.css](#stylescss) | [script.js](#scriptjs) |
 | ------------------------ | ------------------------ | ---------------------- |
@@ -164,6 +160,12 @@ const darkColorsArr = [
   "#2C3E50",
   "#800020",
 ];
+
+function getRandomIndex() {
+  console.log(Math.floor(darkColorsArr.length * Math.random()));
+}
+
+getRandomIndex();
 ```
 
 [back to top](#top)

@@ -4,29 +4,24 @@
   <summary>
     <h4>Description of the task</h4>
   </summary>
-  <h3>Step 1</h3>
+  <h3>Step 8</h3>
   <p>
-    CamperBot is trying to build out a random background color changer. But they keep running into issues and need your help to debug the code
+    CamperBot has finished building out their random background color changer. However, when they click the button, the background color does not change.
   </p>
   <p>
-    CamperBot has already added the HTML and CSS for the project. But they are confused as to why none of the styles and content is showing up on the page.
+    It looks like they are trying to use the <code>onclick</code> property but they are using it incorrectly. The <code>onclick</code> property should be assigned a function reference.
   </p>
   <p>
-    When they open up the console they see this message:
-  </p>
-  <details>
-    <summary>
-      <h5>Example Code</h5>
-    </summary>
-    <code>SyntaxError: unknown: Unexpected token, expected "," (5:2)</code>
-  </details>
-  <p>
-    Syntax errors are thrown when the JavaScript engine encounters something it can't interpret. In this case, it looks like CamperBot has syntax errors in the <code>darkColorsArr</code> array.
+      Fix the error in the <code>btn.onclick = changeBackgroundColor;</code> line.
   </p>
   <p>
-    Fix the syntax errors in the <code>darkColorsArr</code> array and you should see the content and styles show up on the page.
+      Remember that you worked with the <code>onclick</code> property in the Role playing game project. Look back at the final solution to see how <code>onclick</code> was properly used.
+  </p>
+  <p>
+      Once you fix that final bug, the random background color changer will be complete!
   </p>
 </details>
+
 
 # Random Background Color changer
 
@@ -36,7 +31,7 @@ In this project, you will help CamperBot build a random background color changer
 
 #### preview
 
-![preview 'Random Background Color Changer step 1'](https://github.com/AndriiKot/JS__Random_Background_Color_Changer__freeCodeCamp/blob/main/preview/step1.png)
+![preview 'Random Background Color Changer step 8'](https://github.com/AndriiKot/JS__Random_Background_Color_Changer__freeCodeCamp/blob/main/preview/step8.png)
 
 | [index.html](#indexhtml) | [styles.css](#stylescss) | [script.js](#scriptjs) |
 | ------------------------ | ------------------------ | ---------------------- |
@@ -164,6 +159,24 @@ const darkColorsArr = [
   "#2C3E50",
   "#800020",
 ];
+
+function getRandomIndex() {
+  const randomIndex = Math.floor(darkColorsArr.length * Math.random());
+  return randomIndex;
+}
+
+const body = document.querySelector("body");
+const bgHexCodeSpanElement = document.querySelector("#bg-hex-code");
+
+function changeBackgroundColor() {
+  const color = darkColorsArr[getRandomIndex()];
+
+  bgHexCodeSpanElement.innerText = color;
+  body.style.backgroundColor = color;
+}
+const btn = document.querySelector("#btn");
+
+btn.onclick = changeBackgroundColor;
 ```
 
 [back to top](#top)
