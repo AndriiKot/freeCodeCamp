@@ -17,6 +17,18 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  72</h3>
+
+<section>
+<p>Following the same pattern, query for your <code>number</code> inputs in the <code>#dinner</code>, <code>#snacks</code>, and <code>#exercise</code> elements. Assign them to variables following the naming scheme of the previous two.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/JS__Validation_by_Building_a_Calorie_Counter__freeCodeCamp/blob/main/images/previews/preview_step72.png" alt="preview_step72">
   
