@@ -17,6 +17,18 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  75</h3>
+
+<section>
+<p>Following this same pattern, declare variables for the <code>number</code> inputs in the <code>#dinner</code>, <code>#snacks</code>, and <code>#exercise</code> elements. Assign them the appropriate <code>getCaloriesFromInputs</code> calls.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/JS__Validation_by_Building_a_Calorie_Counter__freeCodeCamp/blob/main/images/previews/preview_step75.png" alt="preview_step75">
   
