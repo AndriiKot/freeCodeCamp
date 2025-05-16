@@ -17,6 +17,19 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  73</h3>
+
+<section>
+<p>Now that you have your lists of elements, you can pass them to your <code>getCaloriesFromInputs</code> function to extract the calorie total.</p>
+<p>Declare a <code>breakfastCalories</code> variable, and assign it the result of calling <code>getCaloriesFromInputs</code> with <code>breakfastNumberInputs</code> as the argument.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/JS__Validation_by_Building_a_Calorie_Counter__freeCodeCamp/blob/main/images/previews/preview_step73.png" alt="preview_step73">
   
