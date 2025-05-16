@@ -1,0 +1,6 @@
+Step  71
+
+Using that same syntax, query 
+your number inputs in the #lunch element 
+and assign them to lunchNumberInputs.
+ 
