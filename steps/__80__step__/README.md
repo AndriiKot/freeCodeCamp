@@ -17,6 +17,19 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  80</h3>
+
+<section>
+<p>You need to know if the user is in a caloric surplus or deficit. A caloric surplus is when you consume more calories than you burn, and a caloric deficit is when you burn more calories than you consume. Burning as many calories as you consume is called maintenance, and can be thought of as a surplus or deficit of <code>0</code>, depending on your goals.</p>
+<p>Declare a <code>surplusOrDeficit</code> variable. Then use a ternary operator to set <code>surplusOrDeficit</code> to the string <code>"Surplus"</code> or <code>"Deficit"</code> depending on whether <code>remainingCalories</code> is less than <code>0</code>. If it is less than <code>0</code>, then <code>surplusOrDeficit</code> should be <code>"Surplus"</code>. Otherwise, it should be <code>"Deficit"</code>.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/JS__Validation_by_Building_a_Calorie_Counter__freeCodeCamp/blob/main/images/previews/preview_step80.png" alt="preview_step80">
   
