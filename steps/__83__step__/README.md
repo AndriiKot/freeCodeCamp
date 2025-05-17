@@ -17,6 +17,18 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  83</h3>
+
+<section>
+<p>Give your span the text <code>remainingCalories Calorie surplusOrDeficit</code>, using interpolation to replace <code>remainingCalories</code> and <code>surplusOrDeficit</code> with the appropriate variables.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/JS__Validation_by_Building_a_Calorie_Counter__freeCodeCamp/blob/main/images/previews/preview_step83.png" alt="preview_step83">
   
