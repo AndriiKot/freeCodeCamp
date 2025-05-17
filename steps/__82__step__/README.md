@@ -17,6 +17,23 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  82</h3>
+
+<section>
+<p>When you need to lower case a string, you can use the <dfn>toLowerCase()</dfn> method. This method returns the calling string value converted to lower case.</p>
+<details class="code-details" open=""><summary class="code-details-summary">Example Code</summary><pre class="language-js" tabindex="0" role="region" aria-label="JavaScript code example"><code class="language-js"><span class="token keyword">const</span> firstName <span class="token operator">=</span> <span class="token string">'JESSICA'</span><span class="token punctuation">;</span>
+console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span>firstName<span class="token punctuation">.</span><span class="token function">toLowerCase</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">;</span> <span class="token comment">// Output: jessica</span>
+</code></pre></details>
+<p>Your <code>output.innerHTML</code> string will need a <code>span</code> element. Create that, and give it a <code>class</code> attribute set to the <code>surplusOrDeficit</code> variable. Your <code>surplusOrDeficit</code> variable should be converted to lower case using the <code>toLowerCase()</code> method.</p>
+<p>Do not give your <code>span</code> any text yet.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/JS__Validation_by_Building_a_Calorie_Counter__freeCodeCamp/blob/main/images/previews/preview_step82.png" alt="preview_step82">
   

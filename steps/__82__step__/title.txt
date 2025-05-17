@@ -1,0 +1,19 @@
+Step  82
+
+When you need to lower 
+case a string, you can use the 
+toLowerCase() method. This method returns the calling 
+string value converted to lower case.
+Example Codeconst 
+firstName = 'JESSICA';
+console.log(firstName.toLowerCase()); // Output: jessica
+
+Your output.innerHTML 
+string will need a span element. Create 
+that, and give it a class attribute 
+set to the surplusOrDeficit variable. Your surplusOrDeficit 
+variable should be converted to lower case 
+using the toLowerCase() method.
+Do not give your 
+span any text yet.
+ 
