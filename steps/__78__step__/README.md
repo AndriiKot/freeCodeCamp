@@ -17,6 +17,18 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  78</h3>
+
+<section>
+<p>It is time to start preparing your calculations. Start by declaring a <code>consumedCalories</code> variable, and assign it the sum of <code>breakfastCalories</code>, <code>lunchCalories</code>, <code>dinnerCalories</code>, and <code>snacksCalories</code> (note that order matters for the tests). Be sure to do this after your <code>if</code> statement.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/JS__Validation_by_Building_a_Calorie_Counter__freeCodeCamp/blob/main/images/previews/preview_step78.png" alt="preview_step78">
   
