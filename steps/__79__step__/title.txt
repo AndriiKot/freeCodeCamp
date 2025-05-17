@@ -1,0 +1,6 @@
+Step  79
+
+Now declare a remainingCalories variable, 
+and give it the value of subtracting 
+consumedCalories from budgetCalories and adding exerciseCalories.
+ 

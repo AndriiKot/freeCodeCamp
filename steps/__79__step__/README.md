@@ -17,6 +17,18 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  79</h3>
+
+<section>
+<p>Now declare a <code>remainingCalories</code> variable, and give it the value of subtracting <code>consumedCalories</code> from <code>budgetCalories</code> and adding <code>exerciseCalories</code>.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/JS__Validation_by_Building_a_Calorie_Counter__freeCodeCamp/blob/main/images/previews/preview_step79.png" alt="preview_step79">
   
