@@ -17,6 +17,20 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  76</h3>
+
+<section>
+<p>You also need to get the value of your <code>#budget</code> input. You already queried this at the top of your code, and set it to the <code>budgetNumberInput</code> variable. However, you used <code>getElementById</code>, which returns an <code>Element</code>, not a <code>NodeList</code>.</p>
+<p>A <code>NodeList</code> is an array-like object, which means you can iterate through it and it shares some common methods with an array. For your <code>getCaloriesFromInputs</code> function, an array will work for the argument just as well as a <code>NodeList</code> does.</p>
+<p>Declare a <code>budgetCalories</code> variable and set it to the result of calling <code>getCaloriesFromInputs</code> – pass an array containing your <code>budgetNumberInput</code> as the argument.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/JS__Validation_by_Building_a_Calorie_Counter__freeCodeCamp/blob/main/images/previews/preview_step76.png" alt="preview_step76">
   
