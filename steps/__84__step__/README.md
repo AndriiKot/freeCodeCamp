@@ -17,6 +17,23 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  84</h3>
+
+<section>
+<p>When the user has a calorie surplus, the <code>remainingCalories</code> value will be negative. You don't want to display a negative number in the result string.</p>
+<p><code>Math.abs()</code> is a built-in JavaScript method that will return the absolute value of a number.</p>
+<details class="code-details" open=""><summary class="code-details-summary">Example Code</summary><pre class="language-js" tabindex="0" role="region" aria-label="JavaScript code example"><code class="language-js"><span class="token keyword">const</span> num <span class="token operator">=</span> <span class="token operator">-</span><span class="token number">5</span><span class="token punctuation">;</span>
+Math<span class="token punctuation">.</span><span class="token function">abs</span><span class="token punctuation">(</span>num<span class="token punctuation">)</span><span class="token punctuation">;</span> <span class="token comment">// 5</span>
+</code></pre></details>
+<p>In your <code>span</code> text, wrap your <code>remainingCalories</code> reference in <code>Math.abs()</code> to ensure that the value is positive.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/JS__Validation_by_Building_a_Calorie_Counter__freeCodeCamp/blob/main/images/previews/preview_step84.png" alt="preview_step84">
   
