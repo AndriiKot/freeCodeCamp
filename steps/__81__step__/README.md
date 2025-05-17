@@ -17,6 +17,18 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  81</h3>
+
+<section>
+<p>You need to construct the HTML string that will be displayed in the <code>output</code> element. Start by assigning an empty template literal to the <code>innerHTML</code> property of the <code>output</code> element on a new line at the end of the function.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/JS__Validation_by_Building_a_Calorie_Counter__freeCodeCamp/blob/main/images/previews/preview_step81.png" alt="preview_step81">
   
