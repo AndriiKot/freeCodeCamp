@@ -46,7 +46,7 @@ formElement<span class="token punctuation">.</span>innerHTML <span class="token 
 </details>
 
 <h4>preview</h4>
-    <img src="https://github.com/AndriiKot/JS__Validation_by_Building_a_Calorie_Counter__freeCodeCamp/blob/main/images/previews/preview_step52.png" alt="preview_step52"
+    <img src="https://github.com/AndriiKot/JS__Validation_by_Building_a_Calorie_Counter__freeCodeCamp/blob/main/images/previews/preview_step52.png" alt="preview_step52">
   
 
 [back to top](#top)
