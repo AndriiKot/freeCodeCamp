@@ -42,7 +42,7 @@ button<span class="token punctuation">.</span><span class="token function">addEv
 </details>
 
 <h4>preview</h4>
-    <img src="https://github.com/AndriiKot/JS__Validation_by_Building_a_Calorie_Counter__freeCodeCamp/blob/main/images/previews/preview_step53.png" alt="preview_step53">
+    <img src="https://github.com/AndriiKot/JS__Validation_by_Building_a_Calorie_Counter__freeCodeCamp/blob/main/images/previews/preview_step53.png" alt="preview_step53"
   
 
 [back to top](#top)

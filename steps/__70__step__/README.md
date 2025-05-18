@@ -31,7 +31,7 @@
 </details>
 
 <h4>preview</h4>
-    <img src="https://github.com/AndriiKot/JS__Validation_by_Building_a_Calorie_Counter__freeCodeCamp/blob/main/images/previews/preview_step58.png" alt="preview_step58">
+    <img src="https://github.com/AndriiKot/JS__Validation_by_Building_a_Calorie_Counter__freeCodeCamp/blob/main/images/previews/preview_step70.png" alt="preview_step70"
   
 
 [back to top](#top)
