@@ -17,6 +17,19 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  85</h3>
+
+<section>
+<p>After your <code>span</code> element, add an <code>hr</code> element to create a horizontal line.</p>
+<p>To keep your code clean and readable, you should add this on a new line in the template literal.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/JS__Validation_by_Building_a_Calorie_Counter__freeCodeCamp/blob/main/images/previews/preview_step85.png" alt="preview_step85">
   
