@@ -17,6 +17,19 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  86</h3>
+
+<section>
+<p>Now create a <code>p</code> element with the text <code>budgetCalories Calories Budgeted</code>, using interpolation to replace <code>budgetCalories</code> with the appropriate variable.</p>
+<p>This should come after your <code>hr</code> element.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/JS__Validation_by_Building_a_Calorie_Counter__freeCodeCamp/blob/main/images/previews/preview_step86.png" alt="preview_step86">
   
