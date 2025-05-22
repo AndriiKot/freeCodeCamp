@@ -17,6 +17,19 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  95</h3>
+
+<section>
+<p>You also need to clear the <code>output</code> element's text. You can do this by setting the <code>innerText</code> property to an empty string.</p>
+<p>The difference between <code>innerText</code> and <code>innerHTML</code> is that <code>innerText</code> will not render HTML elements, but will display the tags and content as raw text.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/JS__Validation_by_Building_a_Calorie_Counter__freeCodeCamp/blob/main/images/previews/preview_step95.png" alt="preview_step95">
   
