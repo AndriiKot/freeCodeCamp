@@ -17,6 +17,19 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  97</h3>
+
+<section>
+<p>To complete this project, add an event listener to the <code>clearButton</code> button. When the button is clicked, it should call the <code>clearForm</code> function.</p>
+<p>Congratulations! Your project is complete.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/JS__Validation_by_Building_a_Calorie_Counter__freeCodeCamp/blob/main/images/previews/preview_step97.png" alt="preview_step97">
   
