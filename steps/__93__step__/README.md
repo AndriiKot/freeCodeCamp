@@ -17,6 +17,19 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  93</h3>
+
+<section>
+<p>It is time for another loop. Create a <code>for...of</code> loop with a variable called <code>container</code> to iterate through the <code>inputContainers</code> array.</p>
+<p>Inside the loop, set the <code>innerHTML</code> property of the <code>container</code> to an empty string. This will clear all of the contents of that input container.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/JS__Validation_by_Building_a_Calorie_Counter__freeCodeCamp/blob/main/images/previews/preview_step93.png" alt="preview_step93">
   
