@@ -17,6 +17,19 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  96</h3>
+
+<section>
+<p>To finish off this function, you need to restore the <code>hide</code> class to the <code>output</code> element. The <code>classList</code> property has an <code>.add()</code> method which is the opposite of the <code>.remove()</code> method. It accepts a string representing the class to add to the element.</p>
+<p>Add the <code>hide</code> class to your <code>output</code>.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/JS__Validation_by_Building_a_Calorie_Counter__freeCodeCamp/blob/main/images/previews/preview_step96.png" alt="preview_step96">
   
