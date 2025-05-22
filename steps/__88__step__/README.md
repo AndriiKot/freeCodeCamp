@@ -17,6 +17,22 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  88</h3>
+
+<section>
+<p>Finally, you need to make the <code>#output</code> element visible so the user can see your text. Your <code>output</code> variable is an Element, which has a <code>classList</code> property. This property has a <code>.remove()</code> method, which accepts a string representing the class to remove from the element.</p>
+<details class="code-details" open=""><summary class="code-details-summary">Example Code</summary><pre class="language-js" tabindex="0" role="region" aria-label="JavaScript code example"><code class="language-js"><span class="token keyword">const</span> paragraphElement <span class="token operator">=</span> document<span class="token punctuation">.</span><span class="token function">getElementById</span><span class="token punctuation">(</span><span class="token string">'paragraph'</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+paragraphElement<span class="token punctuation">.</span>classList<span class="token punctuation">.</span><span class="token function">remove</span><span class="token punctuation">(</span><span class="token string">'hide'</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</code></pre></details>
+<p>Use the <code>.remove()</code> method of the <code>output</code> variable's <code>classList</code> property to remove the <code>hide</code> class. Don't forget to place the word <code>hide</code> inside quotes.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/JS__Validation_by_Building_a_Calorie_Counter__freeCodeCamp/blob/main/images/previews/preview_step88.png" alt="preview_step88">
   
