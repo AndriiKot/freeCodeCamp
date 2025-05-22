@@ -20,11 +20,13 @@
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/JS__Validation_by_Building_a_Calorie_Counter__freeCodeCamp/blob/main/images/previews/preview__final-project/initial_view.png" alt="initial view">
 
+
 <details>
       <summary>
         <h4>Full Preview</h4>
       </summary>
 </details>
+
 
 [back to top](#top)
 
