@@ -17,6 +17,18 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  94</h3>
+
+<section>
+<p>After your loop completes, you need to clear the <code>budgetNumberInput</code>. Set the <code>value</code> property of <code>budgetNumberInput</code> to an empty string.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/JS__Validation_by_Building_a_Calorie_Counter__freeCodeCamp/blob/main/images/previews/preview_step94.png" alt="preview_step94">
   
