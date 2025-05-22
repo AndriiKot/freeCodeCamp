@@ -18,7 +18,7 @@
 </details>
 
 <h4>preview</h4>
-    <img src="https://github.com/AndriiKot/VanillaJS__Calorie_Counter__freeCodeCamp/blob/finish-project/images/previews/preview__final-project/initial_view.png" alt="initial view">
+    <img src="https://github.com/AndriiKot/VanillaJS__Calorie_Counter__freeCodeCamp/blob/main/images/previews/preview__final-project/initial_view.png" alt="initial view">
 
 
 <details>
@@ -26,23 +26,23 @@
         <h4>Full Preview</h4>
       </summary>
       <h5>Initial View</h5>
-          <img src="https://github.com/AndriiKot/VanillaJS__Calorie_Counter__freeCodeCamp/blob/finish-project/images/previews/preview__final-project/initial_view.png" alt="initial view">
+          <img src="https://github.com/AndriiKot/VanillaJS__Calorie_Counter__freeCodeCamp/blob/main/images/previews/preview__final-project/initial_view.png" alt="initial view">
       <h5>Agter Adding Breakfast</h5>
-          <img src="https://github.com/AndriiKot/VanillaJS__Calorie_Counter__freeCodeCamp/blob/finish-project/images/previews/preview__final-project/after_adding_breakfast.png" alt="after adding breakfast">
+          <img src="https://github.com/AndriiKot/VanillaJS__Calorie_Counter__freeCodeCamp/blob/main/images/previews/preview__final-project/after_adding_breakfast.png" alt="after adding breakfast">
       <h5>After Adding Lunch</h5>
-          <img src="https://github.com/AndriiKot/VanillaJS__Calorie_Counter__freeCodeCamp/blob/finish-project/images/previews/preview__final-project/after_adding_lunch.png" alt="after adding lunch">
+          <img src="https://github.com/AndriiKot/VanillaJS__Calorie_Counter__freeCodeCamp/blob/main/images/previews/preview__final-project/after_adding_lunch.png" alt="after adding lunch">
       <h5>After Adding Dinner</h5>
-          <img src="https://github.com/AndriiKot/VanillaJS__Calorie_Counter__freeCodeCamp/blob/finish-project/images/previews/preview__final-project/after_adding_dinner.png" alt="after adding dinner">
+          <img src="https://github.com/AndriiKot/VanillaJS__Calorie_Counter__freeCodeCamp/blob/main/images/previews/preview__final-project/after_adding_dinner.png" alt="after adding dinner">
       <h5>After Adding Snacks</h5>
-          <img src="https://github.com/AndriiKot/VanillaJS__Calorie_Counter__freeCodeCamp/blob/finish-project/images/previews/preview__final-project/after_adding_snacks.png" alt="after adding snacks">
+          <img src="https://github.com/AndriiKot/VanillaJS__Calorie_Counter__freeCodeCamp/blob/main/images/previews/preview__final-project/after_adding_snacks.png" alt="after adding snacks">
       <h5>After Adding Exercise</h5>
-          <img src="https://github.com/AndriiKot/VanillaJS__Calorie_Counter__freeCodeCamp/blob/finish-project/images/previews/preview__final-project/after_adding_exercise.png" alt="after adding exercise">
+          <img src="https://github.com/AndriiKot/VanillaJS__Calorie_Counter__freeCodeCamp/blob/main/images/previews/preview__final-project/after_adding_exercise.png" alt="after adding exercise">
       <h5>After pressing the 'Calculate Remaining Calories' button</h5>
-          <img src="https://github.com/AndriiKot/VanillaJS__Calorie_Counter__freeCodeCamp/blob/finish-project/images/previews/preview__final-project/after_pressing_calculate.png" alt="after pressing calculate">
+          <img src="https://github.com/AndriiKot/VanillaJS__Calorie_Counter__freeCodeCamp/blob/main/images/previews/preview__final-project/after_pressing_calculate.png" alt="after pressing calculate">
       <h5>Full Preview</h5>
-          <img src="https://github.com/AndriiKot/VanillaJS__Calorie_Counter__freeCodeCamp/blob/finish-project/images/previews/preview__final-project/full_preview.png" alt="full preview">
+          <img src="https://github.com/AndriiKot/VanillaJS__Calorie_Counter__freeCodeCamp/blob/main/images/previews/preview__final-project/full_preview.png" alt="full preview">
       <h5>After pressing the 'Clear' button</h5>
-          <img src="https://github.com/AndriiKot/VanillaJS__Calorie_Counter__freeCodeCamp/blob/finish-project/images/previews/preview__final-project/after_pressing_clear.png" alt="after pressing clear">
+          <img src="https://github.com/AndriiKot/VanillaJS__Calorie_Counter__freeCodeCamp/blob/main/images/previews/preview__final-project/after_pressing_clear.png" alt="after pressing clear">
 </details>
 
 
