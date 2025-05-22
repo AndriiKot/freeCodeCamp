@@ -1,0 +1,9 @@
+Step  87
+
+Using the same interpolation syntax, 
+add a second p element with the 
+text consumedCalories Calories Consumed and a third 
+with the text exerciseCalories Calories Burned. Remember 
+to replace your consumedCalories and exerciseCalories variables 
+with the appropriate values.
+ 

@@ -17,6 +17,18 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  87</h3>
+
+<section>
+<p>Using the same interpolation syntax, add a second <code>p</code> element with the text <code>consumedCalories Calories Consumed</code> and a third with the text <code>exerciseCalories Calories Burned</code>. Remember to replace your <code>consumedCalories</code> and <code>exerciseCalories</code> variables with the appropriate values.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/JS__Validation_by_Building_a_Calorie_Counter__freeCodeCamp/blob/main/images/previews/preview_step87.png" alt="preview_step87">
   
