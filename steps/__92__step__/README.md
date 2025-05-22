@@ -17,6 +17,30 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  92</h3>
+
+<section>
+<p>Remember that <code>document.querySelectorAll</code> returns a <code>NodeList</code>, which is array-like but is not an array. However, the <code>Array</code> object has a <code>.from()</code> method that accepts an array-like and returns an array. This is helpful when you want access to more robust array methods, which you will learn about in a future project.</p>
+<p>The following example takes a <code>NodeList</code> of <code>li</code> elements and converts it to an array of <code>li</code> elements:</p>
+<details class="code-details" open=""><summary class="code-details-summary">Example Code</summary><pre class="language-html" tabindex="0" role="region" aria-label="HTML code example"><code class="language-html"><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>ul</span><span class="token punctuation">&gt;</span></span>
+  <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>li</span><span class="token punctuation">&gt;</span></span>List 1<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>li</span><span class="token punctuation">&gt;</span></span>
+  <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>li</span><span class="token punctuation">&gt;</span></span>List 2<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>li</span><span class="token punctuation">&gt;</span></span>
+  <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>li</span><span class="token punctuation">&gt;</span></span>List 3<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>li</span><span class="token punctuation">&gt;</span></span>
+<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>ul</span><span class="token punctuation">&gt;</span></span>
+</code></pre></details>
+<details class="code-details" open=""><summary class="code-details-summary">Example Code</summary><pre class="language-js" tabindex="0" role="region" aria-label="JavaScript code example"><code class="language-js"><span class="token keyword">const</span> listItemsArray <span class="token operator">=</span> Array<span class="token punctuation">.</span><span class="token function">from</span><span class="token punctuation">(</span>document<span class="token punctuation">.</span><span class="token function">querySelectorAll</span><span class="token punctuation">(</span><span class="token string">'li'</span><span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+
+console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span>listItemsArray<span class="token punctuation">)</span><span class="token punctuation">;</span> <span class="token comment">//Output: (3) [li, li, li]</span>
+</code></pre></details>
+<p>Wrap your <code>inputContainers</code> query selector in <code>Array.from()</code>. Do this on the same line as your declaration.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/JS__Validation_by_Building_a_Calorie_Counter__freeCodeCamp/blob/main/images/previews/preview_step92.png" alt="preview_step92">
   
