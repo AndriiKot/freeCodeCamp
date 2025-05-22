@@ -17,6 +17,19 @@
 </table>
 </details>
 
+
+<details>
+      <summary>
+        <h4>Description of the Task</h4>
+      </summary>
+       <h3>Step  89</h3>
+
+<section>
+<p>If you click on your <code>Calculate Remaining Calories</code> button, you'll see that nothing happens. You still need to mount the event listener.</p>
+<p>Add an event listener to your <code>calorieCounter</code> element. The event type should be <code>submit</code>, and the callback function should be <code>calculateCalories</code>.</p>
+</section>
+</details>
+
 <h4>preview</h4>
     <img src="https://github.com/AndriiKot/JS__Validation_by_Building_a_Calorie_Counter__freeCodeCamp/blob/main/images/previews/preview_step89.png" alt="preview_step89">
   
