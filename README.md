@@ -18,7 +18,7 @@
 </details>
 
 <h4>preview</h4>
-    <img src="https://github.com/AndriiKot/JS__Validation_by_Building_a_Calorie_Counter__freeCodeCamp/blob/main/images/previews/preview__final-project/initial_view.png" alt="initial view">
+    <img src="https://github.com/AndriiKot/VanillaJS__Calorie_Counter__freeCodeCamp/blob/finish-project/images/previews/preview__final-project/initial_view.png" alt="initial view">
 
 
 <details>
