@@ -3,6 +3,7 @@
     Pyramid_Generator: 'https://github.com/AndriiKot/JS__Pyramid_Generator__FreeCodeCamp.git',
     Gradebook_App: 'https://github.com/AndriiKot/JS__Gradebook_App__FreeCodeCamp.git',
     Random_Background_Color_Changer: 'https://github.com/AndriiKot/JS__Random_Background_Color_Changer__freeCodeCamp.git',
+    Calorie_Counter: 'https://github.com/AndriiKot/VanillaJS__Calorie_Counter__freeCodeCamp.git',
 }
 
 
