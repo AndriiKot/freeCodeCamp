@@ -1,0 +1,7 @@
+﻿node_modules/
+!*.html
+!*.png
+!**/*.svg
+
+
+

@@ -1,0 +1,8 @@
+Step  62
+
+You also need to confirm 
+the input is valid. Declare an invalidInputMatch 
+variable, and assign it the result of 
+calling your isInvalidInput function with currVal as 
+the argument.
+ 

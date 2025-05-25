@@ -1,0 +1,4 @@
+Step  6
+Continuing the pattern, create a 
+fieldset for dinner with the same nested 
+elements. 

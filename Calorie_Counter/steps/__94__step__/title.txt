@@ -1,0 +1,7 @@
+Step  94
+
+After your loop completes, you 
+need to clear the budgetNumberInput. Set the 
+value property of budgetNumberInput to an empty 
+string.
+ 

@@ -1,0 +1,19 @@
+Step  45
+
+Each entry will have a 
+text input for the entry's name, and 
+a number input for the calories. To 
+get a count of the number of 
+entries, you can query by text inputs.
+Pass 
+the string input[type="text"] to the querySelectorAll() method. 
+Remember that if you use single quotes 
+for your string, you must also use 
+double quotes within it (or vice-versa).
+This will 
+return a NodeList of all the text 
+inputs in the form. You can then 
+access the length property of the NodeList 
+to get the number of entries. Do 
+this on the same line.
+ 

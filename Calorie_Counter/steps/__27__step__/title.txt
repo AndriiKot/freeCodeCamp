@@ -1,0 +1,6 @@
+Step  27
+
+Once you have finished testing 
+your cleanInputString function, you can remove both 
+of your console statements.
+ 

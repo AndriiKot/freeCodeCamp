@@ -1,0 +1,10 @@
+Step  49
+
+After your label element, and 
+on a new line in your template 
+string, create an input element. Give it 
+a type attribute set to text, a 
+placeholder attribute set to Name, and an 
+id attribute that matches the for attribute 
+of your label element.
+ 
