@@ -1,0 +1,11 @@
+Step  77
+
+Your getCaloriesFromInputs function will set 
+the global error flag isError to true 
+if an invalid input is detected. Add 
+an if statement to your calculateCalories function 
+that checks the truthiness of your global 
+error flag, and if it is truthy 
+then use return to end the function 
+execution.
+ 

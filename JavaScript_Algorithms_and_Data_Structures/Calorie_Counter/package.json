@@ -1,0 +1,15 @@
+{
+  "name": "Calorie Counter",
+  "version": "1.0.0",
+  "description": "freeCodeCamp Solutions: \"Learn Form Validation by Building a Calorie Counter\"",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "git config core.hooksPath .git-hooks || echo 'Not in a git repo'"
+  },
+  "keywords": ["JavaScript", "HTML5", "CSS", "DOM", "WebAPI"],
+  "author": "Andrii Kotsiuba",
+  "license": "MIT",
+  "devDependencies": {
+    "puppeteer": "^24.6.0"
+  }
+}

@@ -1,0 +1,8 @@
+Step  46
+
+Now you need to build 
+your dynamic HTML string to add to 
+the webpage. Declare a new HTMLString variable, 
+and assign it an empty template literal 
+string.
+ 

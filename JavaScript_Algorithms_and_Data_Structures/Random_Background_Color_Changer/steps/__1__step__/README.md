@@ -1,5 +1,33 @@
 <a id=top></a>
 
+<details>
+  <summary>
+    <h4>Description of the task</h4>
+  </summary>
+  <h3>Step 1</h3>
+  <p>
+    CamperBot is trying to build out a random background color changer. But they keep running into issues and need your help to debug the code
+  </p>
+  <p>
+    CamperBot has already added the HTML and CSS for the project. But they are confused as to why none of the styles and content is showing up on the page.
+  </p>
+  <p>
+    When they open up the console they see this message:
+  </p>
+  <details>
+    <summary>
+      <h5>Example Code</h5>
+    </summary>
+    <code>SyntaxError: unknown: Unexpected token, expected "," (5:2)</code>
+  </details>
+  <p>
+    Syntax errors are thrown when the JavaScript engine encounters something it can't interpret. In this case, it looks like CamperBot has syntax errors in the <code>darkColorsArr</code> array.
+  </p>
+  <p>
+    Fix the syntax errors in the <code>darkColorsArr</code> array and you should see the content and styles show up on the page.
+  </p>
+</details>
+
 # Random Background Color changer
 
 Debugging is the process of going through your code, finding any issues, and fixing them.

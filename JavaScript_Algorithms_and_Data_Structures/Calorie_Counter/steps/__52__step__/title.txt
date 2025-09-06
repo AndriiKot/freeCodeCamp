@@ -1,0 +1,34 @@
+Step  52
+
+To see your new HTML 
+content for the targetInputContainer, you will need 
+to use the innerHTML property.
+The innerHTML property 
+sets or returns the HTML content inside 
+an element.
+Here is a form element with 
+a label and input element nested inside.
+Example 
+Code&lt;form id="form"&gt;
+  &lt;label for="first-name"&gt;First name&lt;/label&gt;
+  
+&lt;input id="first-name" type="text"&gt;
+&lt;/form&gt;
+
+If you want to add 
+another label and input element inside the 
+form, then you can use the innerHTML 
+property as shown below:
+Example Codeconst formElement = 
+document.getElementById("form");
+const formContent = `
+  &lt;label for="last-name"&gt;Last 
+name&lt;/label&gt;
+  &lt;input id="last-name" type="text"&gt;
+`;
+formElement.innerHTML += formContent;
+
+Use 
+the addition assignment operator += to append 
+your HTMLString variable to targetInputContainer.innerHTML.
+ 

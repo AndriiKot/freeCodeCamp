@@ -1,0 +1,10 @@
+Step  73
+
+Now that you have your 
+lists of elements, you can pass them 
+to your getCaloriesFromInputs function to extract the 
+calorie total.
+Declare a breakfastCalories variable, and assign 
+it the result of calling getCaloriesFromInputs with 
+breakfastNumberInputs as the argument.
+ 

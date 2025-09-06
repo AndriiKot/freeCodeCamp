@@ -1,0 +1,6 @@
+Step  12
+Your form needs somewhere to 
+display the results. Add an empty div 
+element and give it an id of 
+output and the class values of output 
+and hide. 
